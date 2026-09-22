@@ -1,0 +1,7 @@
+{
+  "audit_id": "SYSTEM-AUDIT-FIXTURE",
+  "generated_at_utc": "2026-09-21T00:00:00Z",
+  "audit_agent": {"name": "Local System Audit Agent", "verdict": "WAITING", "reason": "Fixture only"},
+  "jobs": [{"label": "BASELINE", "axis": "None", "job_status": "READY", "planned_runs": 1, "complete_runs": 0, "skipped_runs": 0, "net_pnl_usdt": null, "profit_factor": null, "max_drawdown_usdt": null, "sampled_values": null}],
+  "recommendations": []
+}

@@ -1,0 +1,110 @@
+{
+  "audit_type": "LOCAL_QUANT_LAB_SOFTWARE_CONTRACT",
+  "generated_at_utc": "2026-09-22T04:13:40.900525+00:00",
+  "verdict": "PASS",
+  "source_graph": {
+    "status": "PASS",
+    "files": {
+      "master.pine": {
+        "status": "PASS",
+        "anchors": {
+          "ext_gate_sig_1[1] > 0": true,
+          "ext_gate_sig_2[1] > 0": true,
+          "process_orders_on_close=false": true
+        },
+        "sha256": "a4b28dc9b8d9289b02d9099ac2f0438f1c8ab24c66638f50c26832c09a801abd"
+      },
+      "master gate.pine": {
+        "status": "PASS",
+        "anchors": {
+          "ext_source[1]": true,
+          "Master_Gate_Open": true,
+          "request.security": true
+        },
+        "sha256": "93180e027bebce8f921ad725acde8cb77d127187ce80a957b669b6694b1594a3"
+      },
+      "hl gate.pine": {
+        "status": "PASS",
+        "anchors": {
+          "chartTfSeconds < mtfTfSeconds": true,
+          "mtfTfSeconds < htfTfSeconds": true,
+          "ta.pivothigh": true
+        },
+        "sha256": "38a54c3b507a5d92e3b9a164fa4cad5566343587182ad4cb770e29c0b65237db"
+      },
+      "bias.pine": {
+        "status": "PASS",
+        "anchors": {
+          "close[barsBack]": true,
+          "external_gate_signal": true,
+          "lookahead_on": true
+        },
+        "sha256": "afc7c4e7bd76be1c4d83bc0916a4d8d68bc7a83ca1c9b89659f453e5f3e9e8e3"
+      },
+      "vwap gate.pine": {
+        "status": "PASS",
+        "anchors": {
+          "stable_reg": true,
+          "time(\"D\")": true,
+          "time(\"W\")": true
+        },
+        "sha256": "191849d8f0c00eca92be2d04f110d7ebc9442d6153a3696a1f2f4e1907ded3f7"
+      }
+    },
+    "declared_graph": [
+      "BIAS|HL|VWAP producer -> Master Gate G6 external source [1] -> Master Gate plot -> Master Strategy EXT [1]",
+      "BIAS|HL|VWAP producer -> Master Strategy EXT [1]"
+    ],
+    "failures": []
+  },
+  "runtime_contracts": {
+    "status": "PASS",
+    "er_persistence_one": {
+      "status": "PASS",
+      "configured_value": 1
+    },
+    "winrate_disabled": {
+      "status": "PASS",
+      "combination_count": 1,
+      "all_disabled": true
+    },
+    "active_gate_tf_safety": {
+      "safe_higher_tf": {
+        "status": "PASS",
+        "warnings": []
+      },
+      "blocks_equal_or_lower_tf": {
+        "status": "PASS",
+        "blocked_reason": "Causal topology blocked: Master/Core TF=30m must be strictly above chart=30m for causal local research; a finer feed cannot make this lower timeframe valid"
+      }
+    },
+    "lookahead_blocks": {
+      "status": "PASS",
+      "blocked_cases": [
+        true,
+        true
+      ]
+    },
+    "consumer_delays": {
+      "status": "PASS",
+      "strategy_ext_consumer_bars": 1,
+      "g6_then_strategy_consumer_bars": 2,
+      "note": "Producer confirmation/pivot timing is additional and gate-specific."
+    },
+    "producer_strategy_clock": {
+      "status": "PASS",
+      "decision_clock_minutes": 30,
+      "producer_clock_minutes": 30,
+      "cross_clock_parity": "UNKNOWN_REQUIRES_TRADINGVIEW_EXPORT"
+    }
+  },
+  "result_metadata_contract": {
+    "status": "PASS",
+    "missing": [],
+    "invalid": []
+  },
+  "limitations": [
+    "No market data, optimization, or profitability conclusion was run.",
+    "Pine/TradingView intrabar and real-time parity remains UNKNOWN until exported bar traces are compared."
+  ]
+}

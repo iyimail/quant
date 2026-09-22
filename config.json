@@ -1,0 +1,65 @@
+{
+  "version": "0.1.0",
+  "timezone": "Europe/Istanbul",
+  "tradingview_input_folders": [
+    "C:/Users/Serkan/Downloads"
+  ],
+  "symbols": [
+    "WCTUSDT",
+    "INITUSDT",
+    "DUSKUSDT",
+    "MYXUSDT",
+    "CETUSUSDT",
+    "TAOUSDT",
+    "DEXEUSDT",
+    "TAKEUSDT",
+    "BANANAS31USDT",
+    "SIRENUSDT",
+    "BROCCOLI714USDT",
+    "FHEUSDT",
+    "BTRUSDT",
+    "ADAUSDT",
+    "SOLUSDT",
+    "XRPUSDT",
+    "KAS5LUSDT",
+    "BTCUSDT"
+  ],
+  "references": [
+    "ETHUSDT"
+  ],
+  "calibration_only": [
+    "1000000BOBUSDT",
+    "FLOCKUSDT"
+  ],
+  "market": "futures/um",
+  "interval": "30m",
+  "download": {
+    "start": "2025-09-01",
+    "end": "2026-09-01",
+    "verify_checksums": true,
+    "timeout_seconds": 30,
+    "retries": 2
+  },
+  "strategy": {
+    "initial_capital": 1000.0,
+    "cash_per_order": 300.0,
+    "commission_pct_per_order": 0.08,
+    "stop_loss_pct": 2.3,
+    "trailing_activation_pct": 2.2,
+    "trailing_distance_pct": 0.0,
+    "er_length": 9,
+    "er_threshold": 0.17,
+    "er_persist_bars": 2,
+    "winrate_window": 8,
+    "winrate_min_trades": 10,
+    "winrate_threshold": 0.6,
+    "winrate_block_before_min": false,
+    "quantity_step_fallback": 0.001,
+    "tick_size_fallback": 1e-05
+  },
+  "research": {
+    "bootstrap_repetitions": 5000,
+    "random_seed": 20260908,
+    "top_results": 12
+  }
+}

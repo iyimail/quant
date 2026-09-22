@@ -1,0 +1,6690 @@
+{
+  "schema": 1,
+  "source": "Binance USD-M public exchangeInfo + 24hr ticker",
+  "observed_at": "2026-09-22T05:06:24.958388+00:00",
+  "rows": [
+    {
+      "symbol": "BTCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1567965300000.0,
+      "change_pct": 4.997,
+      "quote_volume": 24680359682.26,
+      "ticker_close_ms": 1790053580543.0
+    },
+    {
+      "symbol": "ETHUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1574840700000.0,
+      "change_pct": 2.499,
+      "quote_volume": 15972847008.74,
+      "ticker_close_ms": 1790053582272.0
+    },
+    {
+      "symbol": "BCHUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Payment",
+        "Crypto"
+      ],
+      "onboard_ms": 1576745700000.0,
+      "change_pct": 3.978,
+      "quote_volume": 216354268.65,
+      "ticker_close_ms": 1790053582019.0
+    },
+    {
+      "symbol": "XRPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Payment",
+        "Crypto"
+      ],
+      "onboard_ms": 1578298800000.0,
+      "change_pct": 6.514,
+      "quote_volume": 2176982469.5738,
+      "ticker_close_ms": 1790053581120.0
+    },
+    {
+      "symbol": "LTCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Payment",
+        "Crypto"
+      ],
+      "onboard_ms": 1578557100000.0,
+      "change_pct": 4.161,
+      "quote_volume": 233275896.03,
+      "ticker_close_ms": 1790053578676.0
+    },
+    {
+      "symbol": "TRXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1579075500000.0,
+      "change_pct": 1.592,
+      "quote_volume": 61883792.97091,
+      "ticker_close_ms": 1790053579953.0
+    },
+    {
+      "symbol": "ETCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1579161600000.0,
+      "change_pct": 3.222,
+      "quote_volume": 70370185.267,
+      "ticker_close_ms": 1790053578642.0
+    },
+    {
+      "symbol": "LINKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1579248000000.0,
+      "change_pct": 2.467,
+      "quote_volume": 300801728.405,
+      "ticker_close_ms": 1790053581868.0
+    },
+    {
+      "symbol": "XLMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1579507200000.0,
+      "change_pct": 7.2,
+      "quote_volume": 159388156.46716,
+      "ticker_close_ms": 1790053579917.0
+    },
+    {
+      "symbol": "ADAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1580457600000.0,
+      "change_pct": 6.791,
+      "quote_volume": 393042283.0902,
+      "ticker_close_ms": 1790053580923.0
+    },
+    {
+      "symbol": "XMRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1580716800000.0,
+      "change_pct": -0.838,
+      "quote_volume": 163328635.44,
+      "ticker_close_ms": 1790053580054.0
+    },
+    {
+      "symbol": "DASHUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1580803500000.0,
+      "change_pct": 3.848,
+      "quote_volume": 87757981.07,
+      "ticker_close_ms": 1790053581790.0
+    },
+    {
+      "symbol": "ZECUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1580889600000.0,
+      "change_pct": -3.609,
+      "quote_volume": 2165440949.32,
+      "ticker_close_ms": 1790053582097.0
+    },
+    {
+      "symbol": "XTZUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1580976000000.0,
+      "change_pct": -0.7,
+      "quote_volume": 9583433.09212,
+      "ticker_close_ms": 1790053581749.0
+    },
+    {
+      "symbol": "BNBUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1581321600000.0,
+      "change_pct": 1.951,
+      "quote_volume": 805522463.419,
+      "ticker_close_ms": 1790053582101.0
+    },
+    {
+      "symbol": "ATOMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1581077400000.0,
+      "change_pct": 1.136,
+      "quote_volume": 30248525.17,
+      "ticker_close_ms": 1790053581000.0
+    },
+    {
+      "symbol": "ONTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1581408300000.0,
+      "change_pct": 2.26,
+      "quote_volume": 2627497.056545,
+      "ticker_close_ms": 1790053582025.0
+    },
+    {
+      "symbol": "IOTAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1581494400000.0,
+      "change_pct": 1.036,
+      "quote_volume": 5856487.48691,
+      "ticker_close_ms": 1790053578504.0
+    },
+    {
+      "symbol": "BATUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1581581100000.0,
+      "change_pct": 4.132,
+      "quote_volume": 2022813.366131,
+      "ticker_close_ms": 1790053578497.0
+    },
+    {
+      "symbol": "VETUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1581667200000.0,
+      "change_pct": 6.615,
+      "quote_volume": 14835172.437383,
+      "ticker_close_ms": 1790053578604.0
+    },
+    {
+      "symbol": "NEOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1581929100000.0,
+      "change_pct": 3.285,
+      "quote_volume": 4952108.054,
+      "ticker_close_ms": 1790053578498.0
+    },
+    {
+      "symbol": "QTUMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1582185900000.0,
+      "change_pct": 3.301,
+      "quote_volume": 2243661.93517,
+      "ticker_close_ms": 1790053581958.0
+    },
+    {
+      "symbol": "IOSTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1582272300000.0,
+      "change_pct": 5.674,
+      "quote_volume": 16172103.4906192,
+      "ticker_close_ms": 1790053579565.0
+    },
+    {
+      "symbol": "THETAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1590566400000.0,
+      "change_pct": 4.738,
+      "quote_volume": 5898863.589,
+      "ticker_close_ms": 1790053579827.0
+    },
+    {
+      "symbol": "ALGOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1592298000000.0,
+      "change_pct": 0.723,
+      "quote_volume": 34538384.704833,
+      "ticker_close_ms": 1790053580302.0
+    },
+    {
+      "symbol": "ZILUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1592470800000.0,
+      "change_pct": 4.217,
+      "quote_volume": 10148456.240238,
+      "ticker_close_ms": 1790053582184.0
+    },
+    {
+      "symbol": "KNCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1592815800000.0,
+      "change_pct": 2.409,
+      "quote_volume": 1445977.8328,
+      "ticker_close_ms": 1790053575611.0
+    },
+    {
+      "symbol": "ZRXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1592989200000.0,
+      "change_pct": 2.756,
+      "quote_volume": 1361876.2175,
+      "ticker_close_ms": 1790053574095.0
+    },
+    {
+      "symbol": "COMPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1593507600000.0,
+      "change_pct": 2.452,
+      "quote_volume": 6323706.12,
+      "ticker_close_ms": 1790053564869.0
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1594371600000.0,
+      "change_pct": 13.255,
+      "quote_volume": 1655101438.00107,
+      "ticker_close_ms": 1790053580251.0
+    },
+    {
+      "symbol": "KAVAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1595919900000.0,
+      "change_pct": -3.725,
+      "quote_volume": 8770054.852006,
+      "ticker_close_ms": 1790053570972.0
+    },
+    {
+      "symbol": "BANDUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1596006000000.0,
+      "change_pct": 4.325,
+      "quote_volume": 1662217.8268,
+      "ticker_close_ms": 1790053581762.0
+    },
+    {
+      "symbol": "RLCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1596178800000.0,
+      "change_pct": 7.101,
+      "quote_volume": 3441678.1411,
+      "ticker_close_ms": 1790053556432.0
+    },
+    {
+      "symbol": "SNXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1597388400000.0,
+      "change_pct": 3.981,
+      "quote_volume": 4155087.46613,
+      "ticker_close_ms": 1790053578946.0
+    },
+    {
+      "symbol": "DOTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1598079600000.0,
+      "change_pct": 2.783,
+      "quote_volume": 85580741.82487,
+      "ticker_close_ms": 1790053581198.0
+    },
+    {
+      "symbol": "YFIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1598857200000.0,
+      "change_pct": 3.876,
+      "quote_volume": 3245025.6,
+      "ticker_close_ms": 1790053578535.0
+    },
+    {
+      "symbol": "CRVUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1598943600000.0,
+      "change_pct": 4.6,
+      "quote_volume": 55776518.09735,
+      "ticker_close_ms": 1790053581801.0
+    },
+    {
+      "symbol": "TRBUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1599116400000.0,
+      "change_pct": 6.29,
+      "quote_volume": 11301450.053,
+      "ticker_close_ms": 1790053581799.0
+    },
+    {
+      "symbol": "RUNEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1599203400000.0,
+      "change_pct": 11.776,
+      "quote_volume": 15983572.7148,
+      "ticker_close_ms": 1790053581839.0
+    },
+    {
+      "symbol": "SUSHIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1599202800000.0,
+      "change_pct": -0.515,
+      "quote_volume": 9111225.1493,
+      "ticker_close_ms": 1790053578552.0
+    },
+    {
+      "symbol": "EGLDUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1600066800000.0,
+      "change_pct": 7.139,
+      "quote_volume": 24926060.654,
+      "ticker_close_ms": 1790053578830.0
+    },
+    {
+      "symbol": "SOLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1600066800000.0,
+      "change_pct": 4.44,
+      "quote_volume": 3842272425.5124,
+      "ticker_close_ms": 1790053581577.0
+    },
+    {
+      "symbol": "UNIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1600412400000.0,
+      "change_pct": 1.266,
+      "quote_volume": 657949237.66,
+      "ticker_close_ms": 1790053579645.0
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1600844400000.0,
+      "change_pct": -7.757,
+      "quote_volume": 423517833.777,
+      "ticker_close_ms": 1790053580213.0
+    },
+    {
+      "symbol": "ENJUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1601362800000.0,
+      "change_pct": 0.868,
+      "quote_volume": 3421352.78787,
+      "ticker_close_ms": 1790053578514.0
+    },
+    {
+      "symbol": "KSMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1602658800000.0,
+      "change_pct": 1.655,
+      "quote_volume": 2697757.547,
+      "ticker_close_ms": 1790053578513.0
+    },
+    {
+      "symbol": "NEARUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1602748800000.0,
+      "change_pct": -2.971,
+      "quote_volume": 1093379462.22,
+      "ticker_close_ms": 1790053579703.0
+    },
+    {
+      "symbol": "AAVEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1602831600000.0,
+      "change_pct": 3.296,
+      "quote_volume": 188724210.346,
+      "ticker_close_ms": 1790053581868.0
+    },
+    {
+      "symbol": "FILUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Storage",
+        "Crypto"
+      ],
+      "onboard_ms": 1602828000000.0,
+      "change_pct": 4.054,
+      "quote_volume": 185979698.9254,
+      "ticker_close_ms": 1790053582005.0
+    },
+    {
+      "symbol": "RSRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1603091100000.0,
+      "change_pct": 1.292,
+      "quote_volume": 2993488.142391,
+      "ticker_close_ms": 1790053529286.0
+    },
+    {
+      "symbol": "BELUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1605682800000.0,
+      "change_pct": 3.999,
+      "quote_volume": 1493124.9603,
+      "ticker_close_ms": 1790053578500.0
+    },
+    {
+      "symbol": "AXSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Metaverse",
+        "Crypto"
+      ],
+      "onboard_ms": 1605855600000.0,
+      "change_pct": 5.078,
+      "quote_volume": 10428369.8981,
+      "ticker_close_ms": 1790053579000.0
+    },
+    {
+      "symbol": "ZENUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1606201200000.0,
+      "change_pct": -2.744,
+      "quote_volume": 29807839.979,
+      "ticker_close_ms": 1790053581637.0
+    },
+    {
+      "symbol": "SKLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1598252400000.0,
+      "change_pct": 4.508,
+      "quote_volume": 8295571.433138,
+      "ticker_close_ms": 1790053578359.0
+    },
+    {
+      "symbol": "GRTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1608274800000.0,
+      "change_pct": 4.057,
+      "quote_volume": 8155003.09671,
+      "ticker_close_ms": 1790053582167.0
+    },
+    {
+      "symbol": "1INCHUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1608879600000.0,
+      "change_pct": 1.981,
+      "quote_volume": 2927794.84837,
+      "ticker_close_ms": 1790053579505.0
+    },
+    {
+      "symbol": "CHZUSDT",
+      "quote": "USDT",
+      "categories": [
+        "NFT",
+        "Crypto"
+      ],
+      "onboard_ms": 1611212400000.0,
+      "change_pct": 5.537,
+      "quote_volume": 12688464.32923,
+      "ticker_close_ms": 1790053578568.0
+    },
+    {
+      "symbol": "SANDUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Metaverse",
+        "Crypto"
+      ],
+      "onboard_ms": 1610953200000.0,
+      "change_pct": 4.761,
+      "quote_volume": 12527904.0654,
+      "ticker_close_ms": 1790053582051.0
+    },
+    {
+      "symbol": "ANKRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1611558000000.0,
+      "change_pct": 4.725,
+      "quote_volume": 2519847.762347,
+      "ticker_close_ms": 1790053578490.0
+    },
+    {
+      "symbol": "RVNUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1614063600000.0,
+      "change_pct": 5.513,
+      "quote_volume": 4096833.585428,
+      "ticker_close_ms": 1790053578706.0
+    },
+    {
+      "symbol": "SFPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1614150000000.0,
+      "change_pct": 5.527,
+      "quote_volume": 1445595.488,
+      "ticker_close_ms": 1790053578566.0
+    },
+    {
+      "symbol": "COTIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Payment",
+        "Crypto"
+      ],
+      "onboard_ms": 1615273200000.0,
+      "change_pct": -18.253,
+      "quote_volume": 44866644.265639,
+      "ticker_close_ms": 1790053581898.0
+    },
+    {
+      "symbol": "CHRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1615532400000.0,
+      "change_pct": 5.288,
+      "quote_volume": 1549983.61091,
+      "ticker_close_ms": 1790053578797.0
+    },
+    {
+      "symbol": "MANAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Metaverse",
+        "Crypto"
+      ],
+      "onboard_ms": 1615705200000.0,
+      "change_pct": 4.256,
+      "quote_volume": 5697532.62523,
+      "ticker_close_ms": 1790053578576.0
+    },
+    {
+      "symbol": "ALICEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Metaverse",
+        "Crypto"
+      ],
+      "onboard_ms": 1615791600000.0,
+      "change_pct": 4.555,
+      "quote_volume": 2747936.74413,
+      "ticker_close_ms": 1790053580096.0
+    },
+    {
+      "symbol": "HBARUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1615964400000.0,
+      "change_pct": 6.594,
+      "quote_volume": 111365517.70667,
+      "ticker_close_ms": 1790053581925.0
+    },
+    {
+      "symbol": "ONEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1615964400000.0,
+      "change_pct": 4.487,
+      "quote_volume": 330545378.0927451,
+      "ticker_close_ms": 1790053580581.0
+    },
+    {
+      "symbol": "CELRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1617001200000.0,
+      "change_pct": -0.378,
+      "quote_volume": 44692691.550892,
+      "ticker_close_ms": 1790053581538.0
+    },
+    {
+      "symbol": "HOTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Storage",
+        "Crypto"
+      ],
+      "onboard_ms": 1617087600000.0,
+      "change_pct": 4.461,
+      "quote_volume": 2559506.0439765,
+      "ticker_close_ms": 1790053581749.0
+    },
+    {
+      "symbol": "MTLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1617174000000.0,
+      "change_pct": 3.977,
+      "quote_volume": 4775751.8422,
+      "ticker_close_ms": 1790053578503.0
+    },
+    {
+      "symbol": "OGNUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1617174000000.0,
+      "change_pct": 2.228,
+      "quote_volume": 991954.66418,
+      "ticker_close_ms": 1790053578491.0
+    },
+    {
+      "symbol": "1000SHIBUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1620630000000.0,
+      "change_pct": 8.735,
+      "quote_volume": 121770997.376072,
+      "ticker_close_ms": 1790053581735.0
+    },
+    {
+      "symbol": "GTCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1615791600000.0,
+      "change_pct": 2.93,
+      "quote_volume": 894335.171238,
+      "ticker_close_ms": 1790053576589.0
+    },
+    {
+      "symbol": "IOTXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1628665200000.0,
+      "change_pct": 10.21,
+      "quote_volume": 5590674.961883,
+      "ticker_close_ms": 1790053566271.0
+    },
+    {
+      "symbol": "C98USDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1629702000000.0,
+      "change_pct": 5.013,
+      "quote_volume": 2055957.40769,
+      "ticker_close_ms": 1790053546099.0
+    },
+    {
+      "symbol": "MASKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1626418800000.0,
+      "change_pct": 0.901,
+      "quote_volume": 4431091.0006,
+      "ticker_close_ms": 1790053578502.0
+    },
+    {
+      "symbol": "DYDXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1631170800000.0,
+      "change_pct": 4.052,
+      "quote_volume": 8435806.18707,
+      "ticker_close_ms": 1790053579000.0
+    },
+    {
+      "symbol": "1000XECUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Payment",
+        "Crypto"
+      ],
+      "onboard_ms": 1631775600000.0,
+      "change_pct": 11.008,
+      "quote_volume": 7759684.886161,
+      "ticker_close_ms": 1790053578518.0
+    },
+    {
+      "symbol": "GALAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1631862000000.0,
+      "change_pct": 5.367,
+      "quote_volume": 16870552.300739,
+      "ticker_close_ms": 1790053581904.0
+    },
+    {
+      "symbol": "CELOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1632639600000.0,
+      "change_pct": 1.1,
+      "quote_volume": 3552283.717672,
+      "ticker_close_ms": 1790053574401.0
+    },
+    {
+      "symbol": "ARUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Storage",
+        "Crypto"
+      ],
+      "onboard_ms": 1632812400000.0,
+      "change_pct": -7.684,
+      "quote_volume": 50301256.53,
+      "ticker_close_ms": 1790053580406.0
+    },
+    {
+      "symbol": "ARPAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1634540400000.0,
+      "change_pct": 3.121,
+      "quote_volume": 1503667.66856,
+      "ticker_close_ms": 1790053578513.0
+    },
+    {
+      "symbol": "CTSIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1635145200000.0,
+      "change_pct": 1.48,
+      "quote_volume": 3495773.10503,
+      "ticker_close_ms": 1790053579262.0
+    },
+    {
+      "symbol": "LPTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1636527600000.0,
+      "change_pct": 1.556,
+      "quote_volume": 8753219.243,
+      "ticker_close_ms": 1790053574405.0
+    },
+    {
+      "symbol": "ENSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1638169200000.0,
+      "change_pct": 2.049,
+      "quote_volume": 13498221.201,
+      "ticker_close_ms": 1790053581931.0
+    },
+    {
+      "symbol": "PEOPLEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1640242800000.0,
+      "change_pct": 5.964,
+      "quote_volume": 17886598.896719,
+      "ticker_close_ms": 1790053582140.0
+    },
+    {
+      "symbol": "ROSEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1640934000000.0,
+      "change_pct": -0.577,
+      "quote_volume": 3798974.441845,
+      "ticker_close_ms": 1790053578730.0
+    },
+    {
+      "symbol": "DUSKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1641452400000.0,
+      "change_pct": 8.579,
+      "quote_volume": 8811807.02285,
+      "ticker_close_ms": 1790053578493.0
+    },
+    {
+      "symbol": "FLOWUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1644390000000.0,
+      "change_pct": 3.567,
+      "quote_volume": 7698017.426866,
+      "ticker_close_ms": 1790053578564.0
+    },
+    {
+      "symbol": "IMXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "NFT",
+        "Crypto"
+      ],
+      "onboard_ms": 1644476400000.0,
+      "change_pct": 4.94,
+      "quote_volume": 5772279.4996,
+      "ticker_close_ms": 1790053578536.0
+    },
+    {
+      "symbol": "API3USDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1645426800000.0,
+      "change_pct": 2.998,
+      "quote_volume": 2023819.8883,
+      "ticker_close_ms": 1790053579811.0
+    },
+    {
+      "symbol": "GMTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "NFT",
+        "Crypto"
+      ],
+      "onboard_ms": 1647241200000.0,
+      "change_pct": 7.009,
+      "quote_volume": 5276094.888162,
+      "ticker_close_ms": 1790053581775.0
+    },
+    {
+      "symbol": "APEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "NFT",
+        "Crypto"
+      ],
+      "onboard_ms": 1647500400000.0,
+      "change_pct": 6.556,
+      "quote_volume": 6966293.9195,
+      "ticker_close_ms": 1790053578506.0
+    },
+    {
+      "symbol": "WOOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1649314800000.0,
+      "change_pct": 8.234,
+      "quote_volume": 2579687.4236,
+      "ticker_close_ms": 1790053578417.0
+    },
+    {
+      "symbol": "JASMYUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1650351600000.0,
+      "change_pct": 4.16,
+      "quote_volume": 5374084.178853,
+      "ticker_close_ms": 1790053578572.0
+    },
+    {
+      "symbol": "OPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1654066800000.0,
+      "change_pct": 0.735,
+      "quote_volume": 61304488.487109,
+      "ticker_close_ms": 1790053581867.0
+    },
+    {
+      "symbol": "INJUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1660633200000.0,
+      "change_pct": -1.2,
+      "quote_volume": 96921552.9713,
+      "ticker_close_ms": 1790053580437.0
+    },
+    {
+      "symbol": "STGUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1661324400000.0,
+      "change_pct": -1.391,
+      "quote_volume": 5387434.1679,
+      "ticker_close_ms": 1790053581432.0
+    },
+    {
+      "symbol": "SPELLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1662361200000.0,
+      "change_pct": 1.667,
+      "quote_volume": 1535589.681797,
+      "ticker_close_ms": 1790053521174.0
+    },
+    {
+      "symbol": "1000LUNCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1662620400000.0,
+      "change_pct": -0.074,
+      "quote_volume": 7857650.69862,
+      "ticker_close_ms": 1790053581974.0
+    },
+    {
+      "symbol": "LUNA2USDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1662706800000.0,
+      "change_pct": 0.43,
+      "quote_volume": 13918505.33986,
+      "ticker_close_ms": 1790053582045.0
+    },
+    {
+      "symbol": "LDOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1663743600000.0,
+      "change_pct": -1.261,
+      "quote_volume": 30844155.1742,
+      "ticker_close_ms": 1790053578660.0
+    },
+    {
+      "symbol": "ICPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1627628400000.0,
+      "change_pct": -1.014,
+      "quote_volume": 48533978.71,
+      "ticker_close_ms": 1790053580336.0
+    },
+    {
+      "symbol": "APTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1666076400000.0,
+      "change_pct": 2.341,
+      "quote_volume": 107120334.51816,
+      "ticker_close_ms": 1790053580191.0
+    },
+    {
+      "symbol": "QNTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1666076400000.0,
+      "change_pct": 2.112,
+      "quote_volume": 6662628.406,
+      "ticker_close_ms": 1790053578606.0
+    },
+    {
+      "symbol": "FETUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1673766000000.0,
+      "change_pct": 9.89,
+      "quote_volume": 114839139.0861,
+      "ticker_close_ms": 1790053582201.0
+    },
+    {
+      "symbol": "MAGICUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Metaverse",
+        "Crypto"
+      ],
+      "onboard_ms": 1674457200000.0,
+      "change_pct": 3.008,
+      "quote_volume": 1606838.402406,
+      "ticker_close_ms": 1790053578566.0
+    },
+    {
+      "symbol": "TUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1675148400000.0,
+      "change_pct": 4.667,
+      "quote_volume": 6907118.024388,
+      "ticker_close_ms": 1790053578569.0
+    },
+    {
+      "symbol": "MINAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1675407600000.0,
+      "change_pct": 0.248,
+      "quote_volume": 25764466.74712,
+      "ticker_close_ms": 1790053578427.0
+    },
+    {
+      "symbol": "ASTRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1676271600000.0,
+      "change_pct": 2.621,
+      "quote_volume": 2179996.193932,
+      "ticker_close_ms": 1790053578565.0
+    },
+    {
+      "symbol": "GMXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1676530800000.0,
+      "change_pct": 2.293,
+      "quote_volume": 1877239.24092,
+      "ticker_close_ms": 1790053578499.0
+    },
+    {
+      "symbol": "CFXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1676790000000.0,
+      "change_pct": 0.588,
+      "quote_volume": 9952375.49619,
+      "ticker_close_ms": 1790053578524.0
+    },
+    {
+      "symbol": "STXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1676876400000.0,
+      "change_pct": 7.252,
+      "quote_volume": 18056339.16,
+      "ticker_close_ms": 1790053581435.0
+    },
+    {
+      "symbol": "ACHUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Payment",
+        "Crypto"
+      ],
+      "onboard_ms": 1676962800000.0,
+      "change_pct": -0.119,
+      "quote_volume": 2561864.831766,
+      "ticker_close_ms": 1790053579998.0
+    },
+    {
+      "symbol": "SSVUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1677135600000.0,
+      "change_pct": 6.995,
+      "quote_volume": 2766694.23416,
+      "ticker_close_ms": 1790053577508.0
+    },
+    {
+      "symbol": "CKBUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1677481200000.0,
+      "change_pct": 2.969,
+      "quote_volume": 1407536.5406746,
+      "ticker_close_ms": 1790053578543.0
+    },
+    {
+      "symbol": "LQTYUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1678258800000.0,
+      "change_pct": 5.242,
+      "quote_volume": 1794439.70611,
+      "ticker_close_ms": 1790053578619.0
+    },
+    {
+      "symbol": "USDCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1678579200000.0,
+      "change_pct": -0.01,
+      "quote_volume": 4267738.093434,
+      "ticker_close_ms": 1790053580096.0
+    },
+    {
+      "symbol": "IDUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1679529600000.0,
+      "change_pct": 5.889,
+      "quote_volume": 3765360.39749,
+      "ticker_close_ms": 1790053578517.0
+    },
+    {
+      "symbol": "ARBUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1679554800000.0,
+      "change_pct": 1.659,
+      "quote_volume": 300623797.204744,
+      "ticker_close_ms": 1790053581498.0
+    },
+    {
+      "symbol": "JOEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1679961600000.0,
+      "change_pct": 0.413,
+      "quote_volume": 3056667.12402,
+      "ticker_close_ms": 1790053578506.0
+    },
+    {
+      "symbol": "TLMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Metaverse",
+        "Crypto"
+      ],
+      "onboard_ms": 1680048000000.0,
+      "change_pct": 3.384,
+      "quote_volume": 2330736.144915,
+      "ticker_close_ms": 1790053574609.0
+    },
+    {
+      "symbol": "XVSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1681257600000.0,
+      "change_pct": 2.84,
+      "quote_volume": 820778.7937,
+      "ticker_close_ms": 1790053578492.0
+    },
+    {
+      "symbol": "BLURUSDT",
+      "quote": "USDT",
+      "categories": [
+        "NFT",
+        "Crypto"
+      ],
+      "onboard_ms": 1682553600000.0,
+      "change_pct": 4.704,
+      "quote_volume": 3606945.97882,
+      "ticker_close_ms": 1790053578507.0
+    },
+    {
+      "symbol": "EDUUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Metaverse",
+        "Crypto"
+      ],
+      "onboard_ms": 1682640000000.0,
+      "change_pct": 4.783,
+      "quote_volume": 1864859.72549,
+      "ticker_close_ms": 1790053581894.0
+    },
+    {
+      "symbol": "SUIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1683072000000.0,
+      "change_pct": 9.272,
+      "quote_volume": 1039250328.68198,
+      "ticker_close_ms": 1790053582048.0
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1683244800000.0,
+      "change_pct": 24.304,
+      "quote_volume": 1384851216.2530687,
+      "ticker_close_ms": 1790053582287.0
+    },
+    {
+      "symbol": "1000FLOKIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1683331200000.0,
+      "change_pct": 11.282,
+      "quote_volume": 26690849.61904,
+      "ticker_close_ms": 1790053581713.0
+    },
+    {
+      "symbol": "UMAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1683590400000.0,
+      "change_pct": 2.535,
+      "quote_volume": 1209932.1902,
+      "ticker_close_ms": 1790053578642.0
+    },
+    {
+      "symbol": "NMRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1687435200000.0,
+      "change_pct": 2.547,
+      "quote_volume": 2156021.5036,
+      "ticker_close_ms": 1790053581749.0
+    },
+    {
+      "symbol": "MAVUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1688040000000.0,
+      "change_pct": 3.359,
+      "quote_volume": 643370.967127,
+      "ticker_close_ms": 1790053578680.0
+    },
+    {
+      "symbol": "XVGUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1688558400000.0,
+      "change_pct": 0.624,
+      "quote_volume": 4289268.010419,
+      "ticker_close_ms": 1790053581833.0
+    },
+    {
+      "symbol": "WLDUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1690200000000.0,
+      "change_pct": 2.612,
+      "quote_volume": 336162274.929,
+      "ticker_close_ms": 1790053581567.0
+    },
+    {
+      "symbol": "PENDLEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1690511400000.0,
+      "change_pct": -9.042,
+      "quote_volume": 44331707.2248,
+      "ticker_close_ms": 1790053580403.0
+    },
+    {
+      "symbol": "ARKMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1690512300000.0,
+      "change_pct": 10.841,
+      "quote_volume": 10241995.9901,
+      "ticker_close_ms": 1790053578520.0
+    },
+    {
+      "symbol": "AGLDUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1690597800000.0,
+      "change_pct": 4.19,
+      "quote_volume": 2396359.5817,
+      "ticker_close_ms": 1790053578782.0
+    },
+    {
+      "symbol": "YGGUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1691206200000.0,
+      "change_pct": 3.023,
+      "quote_volume": 2210091.95399,
+      "ticker_close_ms": 1790053563749.0
+    },
+    {
+      "symbol": "DODOXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1691496000000.0,
+      "change_pct": 0.388,
+      "quote_volume": 2334736.463409,
+      "ticker_close_ms": 1790053578610.0
+    },
+    {
+      "symbol": "BNTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1691668800000.0,
+      "change_pct": 3.61,
+      "quote_volume": 604859.8665,
+      "ticker_close_ms": 1790053578504.0
+    },
+    {
+      "symbol": "SEIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1692239400000.0,
+      "change_pct": 5.445,
+      "quote_volume": 127641060.23921,
+      "ticker_close_ms": 1790053579989.0
+    },
+    {
+      "symbol": "CYBERUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1692619200000.0,
+      "change_pct": 2.169,
+      "quote_volume": 2327342.37945,
+      "ticker_close_ms": 1790053577586.0
+    },
+    {
+      "symbol": "ARKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1695133800000.0,
+      "change_pct": 5.027,
+      "quote_volume": 4171617.6582,
+      "ticker_close_ms": 1790053570518.0
+    },
+    {
+      "symbol": "BICOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1695904200000.0,
+      "change_pct": 3.802,
+      "quote_volume": 8402418.26526,
+      "ticker_close_ms": 1790053578504.0
+    },
+    {
+      "symbol": "BIGTIMEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1697121000000.0,
+      "change_pct": 1.684,
+      "quote_volume": 2208550.733409,
+      "ticker_close_ms": 1790053530482.0
+    },
+    {
+      "symbol": "WAXPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1697640300000.0,
+      "change_pct": 1.947,
+      "quote_volume": 960718.634763,
+      "ticker_close_ms": 1790053576488.0
+    },
+    {
+      "symbol": "BSVUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1697805000000.0,
+      "change_pct": 11.447,
+      "quote_volume": 4064872.692,
+      "ticker_close_ms": 1790053571095.0
+    },
+    {
+      "symbol": "RIFUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Storage",
+        "Crypto"
+      ],
+      "onboard_ms": 1697891400000.0,
+      "change_pct": 4.104,
+      "quote_volume": 3181578.31043,
+      "ticker_close_ms": 1790053578554.0
+    },
+    {
+      "symbol": "POLYXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1698201000000.0,
+      "change_pct": 2.969,
+      "quote_volume": 2012011.07736,
+      "ticker_close_ms": 1790053578563.0
+    },
+    {
+      "symbol": "GASUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1698201900000.0,
+      "change_pct": 3.338,
+      "quote_volume": 1655053.4938,
+      "ticker_close_ms": 1790053564283.0
+    },
+    {
+      "symbol": "POWRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1698373800000.0,
+      "change_pct": 4.327,
+      "quote_volume": 2246410.21822,
+      "ticker_close_ms": 1790053578690.0
+    },
+    {
+      "symbol": "TIAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1698769800000.0,
+      "change_pct": 2.273,
+      "quote_volume": 44072505.1616,
+      "ticker_close_ms": 1790053581800.0
+    },
+    {
+      "symbol": "CAKEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1698929100000.0,
+      "change_pct": -1.746,
+      "quote_volume": 31165824.6501,
+      "ticker_close_ms": 1790053581591.0
+    },
+    {
+      "symbol": "MEMEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1699012800000.0,
+      "change_pct": 8.894,
+      "quote_volume": 5131976.9697836,
+      "ticker_close_ms": 1790053580247.0
+    },
+    {
+      "symbol": "TWTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1699021800000.0,
+      "change_pct": 0.604,
+      "quote_volume": 2163626.9989,
+      "ticker_close_ms": 1790053578500.0
+    },
+    {
+      "symbol": "ORDIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1699360200000.0,
+      "change_pct": 4.359,
+      "quote_volume": 33933592.2442,
+      "ticker_close_ms": 1790053581714.0
+    },
+    {
+      "symbol": "STEEMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1699453800000.0,
+      "change_pct": 3.958,
+      "quote_volume": 3634957.221,
+      "ticker_close_ms": 1790053582113.0
+    },
+    {
+      "symbol": "ILVUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Metaverse",
+        "Crypto"
+      ],
+      "onboard_ms": 1699633800000.0,
+      "change_pct": 7.859,
+      "quote_volume": 1802929.0695,
+      "ticker_close_ms": 1790053575487.0
+    },
+    {
+      "symbol": "KASUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1700186400000.0,
+      "change_pct": 8.793,
+      "quote_volume": 12833441.27002,
+      "ticker_close_ms": 1790053578524.0
+    },
+    {
+      "symbol": "BEAMXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1700227800000.0,
+      "change_pct": 1.695,
+      "quote_volume": 1879171.191043,
+      "ticker_close_ms": 1790053580615.0
+    },
+    {
+      "symbol": "1000BONKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1700661600000.0,
+      "change_pct": 15.471,
+      "quote_volume": 69621041.985153,
+      "ticker_close_ms": 1790053582049.0
+    },
+    {
+      "symbol": "PYTHUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1700663400000.0,
+      "change_pct": 3.598,
+      "quote_volume": 18462359.44083,
+      "ticker_close_ms": 1790053581144.0
+    },
+    {
+      "symbol": "SUPERUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1701003600000.0,
+      "change_pct": 8.054,
+      "quote_volume": 5488611.55966,
+      "ticker_close_ms": 1790053578499.0
+    },
+    {
+      "symbol": "USTCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1701088200000.0,
+      "change_pct": 0.991,
+      "quote_volume": 2231690.526329,
+      "ticker_close_ms": 1790053578519.0
+    },
+    {
+      "symbol": "ONGUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1701090000000.0,
+      "change_pct": 6.056,
+      "quote_volume": 15494269.64067,
+      "ticker_close_ms": 1790053579638.0
+    },
+    {
+      "symbol": "ETHWUSDT",
+      "quote": "USDT",
+      "categories": [
+        "PoW",
+        "Crypto"
+      ],
+      "onboard_ms": 1701174600000.0,
+      "change_pct": 2.056,
+      "quote_volume": 5403291.903,
+      "ticker_close_ms": 1790053578735.0
+    },
+    {
+      "symbol": "JTOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1702029600000.0,
+      "change_pct": 5.14,
+      "quote_volume": 27621117.7439,
+      "ticker_close_ms": 1790053580236.0
+    },
+    {
+      "symbol": "1000SATSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1702389600000.0,
+      "change_pct": 8.907,
+      "quote_volume": 5580795.07598803,
+      "ticker_close_ms": 1790053578509.0
+    },
+    {
+      "symbol": "AUCTIONUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1702645200000.0,
+      "change_pct": 3.888,
+      "quote_volume": 1639751.19364,
+      "ticker_close_ms": 1790053581991.0
+    },
+    {
+      "symbol": "1000RATSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1702648800000.0,
+      "change_pct": 4.319,
+      "quote_volume": 2144481.8054,
+      "ticker_close_ms": 1790053580958.0
+    },
+    {
+      "symbol": "ACEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1702893600000.0,
+      "change_pct": 10.249,
+      "quote_volume": 18947413.707488,
+      "ticker_close_ms": 1790053578506.0
+    },
+    {
+      "symbol": "MOVRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1703593800000.0,
+      "change_pct": 5.075,
+      "quote_volume": 3588701.551528,
+      "ticker_close_ms": 1790053578507.0
+    },
+    {
+      "symbol": "BTCUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1704285000000.0,
+      "change_pct": 4.995,
+      "quote_volume": 6248033308.1,
+      "ticker_close_ms": 1790053580931.0
+    },
+    {
+      "symbol": "ETHUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1704285300000.0,
+      "change_pct": 2.495,
+      "quote_volume": 4863831337.91,
+      "ticker_close_ms": 1790053581798.0
+    },
+    {
+      "symbol": "BNBUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1704285600000.0,
+      "change_pct": 1.98,
+      "quote_volume": 146219181.103,
+      "ticker_close_ms": 1790053579783.0
+    },
+    {
+      "symbol": "SOLUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1704285900000.0,
+      "change_pct": 4.432,
+      "quote_volume": 459583376.0218,
+      "ticker_close_ms": 1790053581810.0
+    },
+    {
+      "symbol": "XRPUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1704286200000.0,
+      "change_pct": 6.515,
+      "quote_volume": 251776979.7313,
+      "ticker_close_ms": 1790053580001.0
+    },
+    {
+      "symbol": "XAIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1704808800000.0,
+      "change_pct": 2.16,
+      "quote_volume": 1978971.92284,
+      "ticker_close_ms": 1790053578510.0
+    },
+    {
+      "symbol": "DOGEUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1705572000000.0,
+      "change_pct": 13.305,
+      "quote_volume": 152973970.79309,
+      "ticker_close_ms": 1790053581709.0
+    },
+    {
+      "symbol": "WIFUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1705587300000.0,
+      "change_pct": 23.599,
+      "quote_volume": 132652284.13438,
+      "ticker_close_ms": 1790053581838.0
+    },
+    {
+      "symbol": "MANTAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1705586400000.0,
+      "change_pct": 1.967,
+      "quote_volume": 4560587.485886,
+      "ticker_close_ms": 1790053578517.0
+    },
+    {
+      "symbol": "ONDOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1705755600000.0,
+      "change_pct": 1.903,
+      "quote_volume": 234298341.0691,
+      "ticker_close_ms": 1790053579159.0
+    },
+    {
+      "symbol": "LSKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1706192100000.0,
+      "change_pct": -7.622,
+      "quote_volume": 100233499.44407,
+      "ticker_close_ms": 1790053582126.0
+    },
+    {
+      "symbol": "ALTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1706191200000.0,
+      "change_pct": 3.919,
+      "quote_volume": 3544755.813964,
+      "ticker_close_ms": 1790053564203.0
+    },
+    {
+      "symbol": "JUPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1706725800000.0,
+      "change_pct": -2.412,
+      "quote_volume": 39441187.7681,
+      "ticker_close_ms": 1790053578515.0
+    },
+    {
+      "symbol": "ZETAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1706862600000.0,
+      "change_pct": -9.737,
+      "quote_volume": 346889376.6883,
+      "ticker_close_ms": 1790053580744.0
+    },
+    {
+      "symbol": "RONINUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1707193800000.0,
+      "change_pct": 7.334,
+      "quote_volume": 2965590.045577,
+      "ticker_close_ms": 1790053580921.0
+    },
+    {
+      "symbol": "DYMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1707289200000.0,
+      "change_pct": 3.626,
+      "quote_volume": 4346051.583677,
+      "ticker_close_ms": 1790053581819.0
+    },
+    {
+      "symbol": "SUIUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1707375600000.0,
+      "change_pct": 9.207,
+      "quote_volume": 69737359.535666,
+      "ticker_close_ms": 1790053579896.0
+    },
+    {
+      "symbol": "LINKUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1708072200000.0,
+      "change_pct": 2.444,
+      "quote_volume": 17027033.782,
+      "ticker_close_ms": 1790053578539.0
+    },
+    {
+      "symbol": "PIXELUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1708354800000.0,
+      "change_pct": 5.231,
+      "quote_volume": 1670658.398494,
+      "ticker_close_ms": 1790053578618.0
+    },
+    {
+      "symbol": "STRKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1708448400000.0,
+      "change_pct": -14.314,
+      "quote_volume": 44907055.46637,
+      "ticker_close_ms": 1790053581278.0
+    },
+    {
+      "symbol": "ORDIUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1708585200000.0,
+      "change_pct": 4.213,
+      "quote_volume": 3872982.3351,
+      "ticker_close_ms": 1790053577646.0
+    },
+    {
+      "symbol": "GLMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1708596000000.0,
+      "change_pct": 2.137,
+      "quote_volume": 1509441.74598,
+      "ticker_close_ms": 1790053578503.0
+    },
+    {
+      "symbol": "PORTALUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1709218800000.0,
+      "change_pct": 2.4,
+      "quote_volume": 5095907.735803,
+      "ticker_close_ms": 1790053579206.0
+    },
+    {
+      "symbol": "AXLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1709307000000.0,
+      "change_pct": 2.705,
+      "quote_volume": 3403413.836193,
+      "ticker_close_ms": 1790053578668.0
+    },
+    {
+      "symbol": "1000PEPEUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1709800200000.0,
+      "change_pct": 24.274,
+      "quote_volume": 77656665.6406408,
+      "ticker_close_ms": 1790053581488.0
+    },
+    {
+      "symbol": "METISUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1710232200000.0,
+      "change_pct": 0.843,
+      "quote_volume": 4188274.6802,
+      "ticker_close_ms": 1790053580808.0
+    },
+    {
+      "symbol": "AEVOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1710336600000.0,
+      "change_pct": 1.423,
+      "quote_volume": 1664684.592221,
+      "ticker_close_ms": 1790053578497.0
+    },
+    {
+      "symbol": "WLDUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1710399600000.0,
+      "change_pct": 2.569,
+      "quote_volume": 13300704.48044,
+      "ticker_close_ms": 1790053579601.0
+    },
+    {
+      "symbol": "BOMEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1710592200000.0,
+      "change_pct": 9.096,
+      "quote_volume": 27863327.2898306,
+      "ticker_close_ms": 1790053581921.0
+    },
+    {
+      "symbol": "ETHFIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1710775800000.0,
+      "change_pct": -5.707,
+      "quote_volume": 35348961.74111,
+      "ticker_close_ms": 1790053579426.0
+    },
+    {
+      "symbol": "AVAXUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1710918000000.0,
+      "change_pct": -7.775,
+      "quote_volume": 26612169.27679,
+      "ticker_close_ms": 1790053577834.0
+    },
+    {
+      "symbol": "1000SHIBUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1711609200000.0,
+      "change_pct": 8.696,
+      "quote_volume": 6235247.946884,
+      "ticker_close_ms": 1790053578642.0
+    },
+    {
+      "symbol": "ENAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1712061000000.0,
+      "change_pct": -1.786,
+      "quote_volume": 415983113.81414,
+      "ticker_close_ms": 1790053580937.0
+    },
+    {
+      "symbol": "WUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1712158200000.0,
+      "change_pct": -1.992,
+      "quote_volume": 5421541.0301309,
+      "ticker_close_ms": 1790053578603.0
+    },
+    {
+      "symbol": "WIFUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1712214900000.0,
+      "change_pct": 23.424,
+      "quote_volume": 5764091.68553,
+      "ticker_close_ms": 1790053558629.0
+    },
+    {
+      "symbol": "BCHUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1712214000000.0,
+      "change_pct": 3.983,
+      "quote_volume": 20275524.44,
+      "ticker_close_ms": 1790053579895.0
+    },
+    {
+      "symbol": "TNSRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "NFT",
+        "Crypto"
+      ],
+      "onboard_ms": 1712595600000.0,
+      "change_pct": 4.336,
+      "quote_volume": 3611757.683743,
+      "ticker_close_ms": 1790053580482.0
+    },
+    {
+      "symbol": "SAGAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1712658600000.0,
+      "change_pct": 13.638,
+      "quote_volume": 97071128.017098,
+      "ticker_close_ms": 1790053581278.0
+    },
+    {
+      "symbol": "LTCUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1712818800000.0,
+      "change_pct": 4.18,
+      "quote_volume": 20505492.68,
+      "ticker_close_ms": 1790053579379.0
+    },
+    {
+      "symbol": "NEARUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1712819700000.0,
+      "change_pct": -3.063,
+      "quote_volume": 76893731.813,
+      "ticker_close_ms": 1790053581488.0
+    },
+    {
+      "symbol": "TAOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1712845800000.0,
+      "change_pct": 17.856,
+      "quote_volume": 504514768.5,
+      "ticker_close_ms": 1790053582101.0
+    },
+    {
+      "symbol": "ARBUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1713423600000.0,
+      "change_pct": 1.668,
+      "quote_volume": 35871425.564985,
+      "ticker_close_ms": 1790053580064.0
+    },
+    {
+      "symbol": "NEOUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1713424500000.0,
+      "change_pct": 3.119,
+      "quote_volume": 1064783.477,
+      "ticker_close_ms": 1790053570066.0
+    },
+    {
+      "symbol": "FILUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1713425400000.0,
+      "change_pct": 4.077,
+      "quote_volume": 10125057.4797,
+      "ticker_close_ms": 1790053579708.0
+    },
+    {
+      "symbol": "TIAUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1714029300000.0,
+      "change_pct": 2.275,
+      "quote_volume": 3546759.3718,
+      "ticker_close_ms": 1790053578524.0
+    },
+    {
+      "symbol": "BOMEUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1714028400000.0,
+      "change_pct": 9.149,
+      "quote_volume": 3132207.3818723,
+      "ticker_close_ms": 1790053578542.0
+    },
+    {
+      "symbol": "REZUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1714485600000.0,
+      "change_pct": 2.481,
+      "quote_volume": 8459179.132979,
+      "ticker_close_ms": 1790053578824.0
+    },
+    {
+      "symbol": "ENAUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1714633200000.0,
+      "change_pct": -1.745,
+      "quote_volume": 43099712.44728,
+      "ticker_close_ms": 1790053581430.0
+    },
+    {
+      "symbol": "ETHFIUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1714634100000.0,
+      "change_pct": -5.618,
+      "quote_volume": 2043394.61099,
+      "ticker_close_ms": 1790053581503.0
+    },
+    {
+      "symbol": "1000BONKUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1714633200000.0,
+      "change_pct": 15.382,
+      "quote_volume": 5912859.289695,
+      "ticker_close_ms": 1790053578673.0
+    },
+    {
+      "symbol": "BBUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1715603400000.0,
+      "change_pct": 7.944,
+      "quote_volume": 6969836.401956,
+      "ticker_close_ms": 1790053578918.0
+    },
+    {
+      "symbol": "NOTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1715868000000.0,
+      "change_pct": 2.837,
+      "quote_volume": 3111537.8457836,
+      "ticker_close_ms": 1790053564331.0
+    },
+    {
+      "symbol": "TURBOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1717083000000.0,
+      "change_pct": 7.122,
+      "quote_volume": 6259083.8713983,
+      "ticker_close_ms": 1790053578724.0
+    },
+    {
+      "symbol": "IOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1718114400000.0,
+      "change_pct": 1.491,
+      "quote_volume": 6438742.48816,
+      "ticker_close_ms": 1790053578527.0
+    },
+    {
+      "symbol": "ZKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1718622000000.0,
+      "change_pct": -2.484,
+      "quote_volume": 8002922.698388,
+      "ticker_close_ms": 1790053581894.0
+    },
+    {
+      "symbol": "MEWUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1718632800000.0,
+      "change_pct": 10.441,
+      "quote_volume": 3361039.0515445,
+      "ticker_close_ms": 1790053578525.0
+    },
+    {
+      "symbol": "LISTAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1718886600000.0,
+      "change_pct": 8.829,
+      "quote_volume": 3764040.2788,
+      "ticker_close_ms": 1790053578743.0
+    },
+    {
+      "symbol": "ZROUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1718893800000.0,
+      "change_pct": 0.873,
+      "quote_volume": 29609966.89482,
+      "ticker_close_ms": 1790053580953.0
+    },
+    {
+      "symbol": "CRVUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1720076400000.0,
+      "change_pct": 4.632,
+      "quote_volume": 4334873.70165,
+      "ticker_close_ms": 1790053578608.0
+    },
+    {
+      "symbol": "RENDERUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1721988000000.0,
+      "change_pct": 6.075,
+      "quote_volume": 47151485.7316,
+      "ticker_close_ms": 1790053581775.0
+    },
+    {
+      "symbol": "BANANAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1723687200000.0,
+      "change_pct": 2.14,
+      "quote_volume": 1547051.1515,
+      "ticker_close_ms": 1790053573333.0
+    },
+    {
+      "symbol": "RAREUSDT",
+      "quote": "USDT",
+      "categories": [
+        "NFT",
+        "Crypto"
+      ],
+      "onboard_ms": 1723726800000.0,
+      "change_pct": 3.357,
+      "quote_volume": 1122043.65472,
+      "ticker_close_ms": 1790053581866.0
+    },
+    {
+      "symbol": "GUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1723725000000.0,
+      "change_pct": -4.872,
+      "quote_volume": 53093933.068143,
+      "ticker_close_ms": 1790053581292.0
+    },
+    {
+      "symbol": "SYNUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1723811400000.0,
+      "change_pct": 13.448,
+      "quote_volume": 42249788.47579,
+      "ticker_close_ms": 1790053580610.0
+    },
+    {
+      "symbol": "BRETTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1724150100000.0,
+      "change_pct": 8.791,
+      "quote_volume": 2663075.797675,
+      "ticker_close_ms": 1790053581838.0
+    },
+    {
+      "symbol": "POPCATUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1724331600000.0,
+      "change_pct": 10.541,
+      "quote_volume": 7256270.54499,
+      "ticker_close_ms": 1790053580623.0
+    },
+    {
+      "symbol": "SUNUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1724331900000.0,
+      "change_pct": 2.825,
+      "quote_volume": 1552839.98475,
+      "ticker_close_ms": 1790053575090.0
+    },
+    {
+      "symbol": "DOGSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1724675400000.0,
+      "change_pct": 4.175,
+      "quote_volume": 2864543.8135828,
+      "ticker_close_ms": 1790053578621.0
+    },
+    {
+      "symbol": "FLUXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1725346800000.0,
+      "change_pct": 6.761,
+      "quote_volume": 1428814.07275,
+      "ticker_close_ms": 1790053571608.0
+    },
+    {
+      "symbol": "RPLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1725885000000.0,
+      "change_pct": 4.989,
+      "quote_volume": 1578253.0731,
+      "ticker_close_ms": 1790053578570.0
+    },
+    {
+      "symbol": "POLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1726229700000.0,
+      "change_pct": 1.486,
+      "quote_volume": 38861336.60727,
+      "ticker_close_ms": 1790053580908.0
+    },
+    {
+      "symbol": "1MBABYDOGEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1726486500000.0,
+      "change_pct": 6.855,
+      "quote_volume": 3612847.4120995,
+      "ticker_close_ms": 1790053578612.0
+    },
+    {
+      "symbol": "NEIROUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1726486200000.0,
+      "change_pct": 7.197,
+      "quote_volume": 17906312.86559801,
+      "ticker_close_ms": 1790053581825.0
+    },
+    {
+      "symbol": "FIDAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1726749000000.0,
+      "change_pct": 2.136,
+      "quote_volume": 2428652.9573,
+      "ticker_close_ms": 1790053581905.0
+    },
+    {
+      "symbol": "CATIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1726831800000.0,
+      "change_pct": 1.3,
+      "quote_volume": 1939545.64608,
+      "ticker_close_ms": 1790053578509.0
+    },
+    {
+      "symbol": "HMSTRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1727353800000.0,
+      "change_pct": 3.252,
+      "quote_volume": 1924464.5144397,
+      "ticker_close_ms": 1790053579907.0
+    },
+    {
+      "symbol": "EIGENUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1727762400000.0,
+      "change_pct": 1.749,
+      "quote_volume": 19652898.98974,
+      "ticker_close_ms": 1790053578504.0
+    },
+    {
+      "symbol": "DIAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1727872200000.0,
+      "change_pct": 6.399,
+      "quote_volume": 1443356.8951,
+      "ticker_close_ms": 1790053565894.0
+    },
+    {
+      "symbol": "1000CATUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1729513800000.0,
+      "change_pct": 9.531,
+      "quote_volume": 2329651.767156,
+      "ticker_close_ms": 1790053581754.0
+    },
+    {
+      "symbol": "SCRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1729591200000.0,
+      "change_pct": 1.599,
+      "quote_volume": 1696073.25762,
+      "ticker_close_ms": 1790053581815.0
+    },
+    {
+      "symbol": "GOATUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1729776600000.0,
+      "change_pct": 8.2,
+      "quote_volume": 2980444.55881,
+      "ticker_close_ms": 1790053582451.0
+    },
+    {
+      "symbol": "MOODENGUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1729850400000.0,
+      "change_pct": 6.526,
+      "quote_volume": 12839035.15315,
+      "ticker_close_ms": 1790053579329.0
+    },
+    {
+      "symbol": "SAFEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1729859400000.0,
+      "change_pct": 3.076,
+      "quote_volume": 1792070.67472,
+      "ticker_close_ms": 1790053581729.0
+    },
+    {
+      "symbol": "SANTOSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1730124000000.0,
+      "change_pct": 2.373,
+      "quote_volume": 881389.62299,
+      "ticker_close_ms": 1790053578670.0
+    },
+    {
+      "symbol": "COWUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1730899800000.0,
+      "change_pct": 2.652,
+      "quote_volume": 2615327.9433,
+      "ticker_close_ms": 1790053579206.0
+    },
+    {
+      "symbol": "CETUSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1730901600000.0,
+      "change_pct": 3.203,
+      "quote_volume": 5893380.28258,
+      "ticker_close_ms": 1790053581786.0
+    },
+    {
+      "symbol": "1000000MOGUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1730982600000.0,
+      "change_pct": 12.163,
+      "quote_volume": 4057230.36151,
+      "ticker_close_ms": 1790053577628.0
+    },
+    {
+      "symbol": "GRASSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1731079800000.0,
+      "change_pct": 23.87,
+      "quote_volume": 32363603.00449,
+      "ticker_close_ms": 1790053581125.0
+    },
+    {
+      "symbol": "DRIFTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1731080700000.0,
+      "change_pct": 9.383,
+      "quote_volume": 6632020.46444,
+      "ticker_close_ms": 1790053582029.0
+    },
+    {
+      "symbol": "ACTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1731327300000.0,
+      "change_pct": 5.902,
+      "quote_volume": 2309130.735484,
+      "ticker_close_ms": 1790053578490.0
+    },
+    {
+      "symbol": "PNUTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1731328200000.0,
+      "change_pct": 6.881,
+      "quote_volume": 10812151.20142,
+      "ticker_close_ms": 1790053578679.0
+    },
+    {
+      "symbol": "BANUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1731929400000.0,
+      "change_pct": 4.876,
+      "quote_volume": 831884.87331,
+      "ticker_close_ms": 1790053561819.0
+    },
+    {
+      "symbol": "AKTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1731929400000.0,
+      "change_pct": 10.237,
+      "quote_volume": 12132070.10069,
+      "ticker_close_ms": 1790053577829.0
+    },
+    {
+      "symbol": "1000CHEEMSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1732535100000.0,
+      "change_pct": 5.013,
+      "quote_volume": 1056399.954019,
+      "ticker_close_ms": 1790053581587.0
+    },
+    {
+      "symbol": "THEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1732709700000.0,
+      "change_pct": 7.525,
+      "quote_volume": 4746687.777029,
+      "ticker_close_ms": 1790053581740.0
+    },
+    {
+      "symbol": "MORPHOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1732717800000.0,
+      "change_pct": -6.431,
+      "quote_volume": 24029736.28926,
+      "ticker_close_ms": 1790053578685.0
+    },
+    {
+      "symbol": "CHILLGUYUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1732718700000.0,
+      "change_pct": 5.0,
+      "quote_volume": 6161793.268902,
+      "ticker_close_ms": 1790053578515.0
+    },
+    {
+      "symbol": "KAIAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1733320800000.0,
+      "change_pct": 6.172,
+      "quote_volume": 4108312.26835,
+      "ticker_close_ms": 1790053579199.0
+    },
+    {
+      "symbol": "AEROUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1733321700000.0,
+      "change_pct": 2.736,
+      "quote_volume": 25007618.52994,
+      "ticker_close_ms": 1790053581163.0
+    },
+    {
+      "symbol": "ORCAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1733497200000.0,
+      "change_pct": 3.097,
+      "quote_volume": 5563541.868,
+      "ticker_close_ms": 1790053581829.0
+    },
+    {
+      "symbol": "MOVEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1733752800000.0,
+      "change_pct": 1.492,
+      "quote_volume": 4332390.367994,
+      "ticker_close_ms": 1790053578501.0
+    },
+    {
+      "symbol": "RAYSOLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1733832000000.0,
+      "change_pct": 5.662,
+      "quote_volume": 42233757.13298,
+      "ticker_close_ms": 1790053580632.0
+    },
+    {
+      "symbol": "KOMAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1733832900000.0,
+      "change_pct": 9.778,
+      "quote_volume": 7769962.231514,
+      "ticker_close_ms": 1790053575100.0
+    },
+    {
+      "symbol": "VIRTUALUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1733833800000.0,
+      "change_pct": 4.879,
+      "quote_volume": 41392455.60003,
+      "ticker_close_ms": 1790053581801.0
+    },
+    {
+      "symbol": "SPXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1733834700000.0,
+      "change_pct": 6.332,
+      "quote_volume": 22384120.8478,
+      "ticker_close_ms": 1790053578494.0
+    },
+    {
+      "symbol": "MEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "NFT",
+        "Crypto"
+      ],
+      "onboard_ms": 1733850000000.0,
+      "change_pct": 8.544,
+      "quote_volume": 4091437.488246,
+      "ticker_close_ms": 1790053581268.0
+    },
+    {
+      "symbol": "AVAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1734094800000.0,
+      "change_pct": 11.155,
+      "quote_volume": 10937783.13843,
+      "ticker_close_ms": 1790053579546.0
+    },
+    {
+      "symbol": "VELODROMEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1734106500000.0,
+      "change_pct": 5.254,
+      "quote_volume": 1468357.21577,
+      "ticker_close_ms": 1790053568267.0
+    },
+    {
+      "symbol": "MOCAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Metaverse",
+        "Crypto"
+      ],
+      "onboard_ms": 1734348600000.0,
+      "change_pct": 4.598,
+      "quote_volume": 2634361.735153,
+      "ticker_close_ms": 1790053581814.0
+    },
+    {
+      "symbol": "VANAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1734355800000.0,
+      "change_pct": -1.387,
+      "quote_volume": 2824113.556454,
+      "ticker_close_ms": 1790053582360.0
+    },
+    {
+      "symbol": "PENGUUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1734452100000.0,
+      "change_pct": 10.202,
+      "quote_volume": 175471121.180448,
+      "ticker_close_ms": 1790053581746.0
+    },
+    {
+      "symbol": "LUMIAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1734521400000.0,
+      "change_pct": 8.504,
+      "quote_volume": 1933586.922266,
+      "ticker_close_ms": 1790053578240.0
+    },
+    {
+      "symbol": "USUALUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1734526800000.0,
+      "change_pct": 3.529,
+      "quote_volume": 3327772.013775,
+      "ticker_close_ms": 1790053569298.0
+    },
+    {
+      "symbol": "AIXBTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1734719400000.0,
+      "change_pct": 8.49,
+      "quote_volume": 3455269.38673,
+      "ticker_close_ms": 1790053581748.0
+    },
+    {
+      "symbol": "FARTCOINUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1734720300000.0,
+      "change_pct": 17.538,
+      "quote_volume": 88607382.66385,
+      "ticker_close_ms": 1790053580669.0
+    },
+    {
+      "symbol": "KMNOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1734721200000.0,
+      "change_pct": 0.843,
+      "quote_volume": 23522970.89914,
+      "ticker_close_ms": 1790053581945.0
+    },
+    {
+      "symbol": "CGPTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1734722100000.0,
+      "change_pct": 5.917,
+      "quote_volume": 1668600.10496,
+      "ticker_close_ms": 1790053578612.0
+    },
+    {
+      "symbol": "HIVEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1734953400000.0,
+      "change_pct": 2.811,
+      "quote_volume": 1509472.96491,
+      "ticker_close_ms": 1790053578612.0
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1735039800000.0,
+      "change_pct": 5.343,
+      "quote_volume": 8533598.309,
+      "ticker_close_ms": 1790053581793.0
+    },
+    {
+      "symbol": "PHAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1735558200000.0,
+      "change_pct": 35.287,
+      "quote_volume": 212846019.68973,
+      "ticker_close_ms": 1790053581597.0
+    },
+    {
+      "symbol": "GRIFFAINUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1735824600000.0,
+      "change_pct": 7.905,
+      "quote_volume": 1844633.299804,
+      "ticker_close_ms": 1790053578524.0
+    },
+    {
+      "symbol": "ZEREBROUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1735826400000.0,
+      "change_pct": 6.587,
+      "quote_volume": 1428545.349715,
+      "ticker_close_ms": 1790053560751.0
+    },
+    {
+      "symbol": "BIOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1735906500000.0,
+      "change_pct": 3.29,
+      "quote_volume": 7430812.10667,
+      "ticker_close_ms": 1790053578507.0
+    },
+    {
+      "symbol": "COOKIEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1736249400000.0,
+      "change_pct": 19.664,
+      "quote_volume": 9353924.15693,
+      "ticker_close_ms": 1790053581771.0
+    },
+    {
+      "symbol": "ALCHUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1736250300000.0,
+      "change_pct": 24.267,
+      "quote_volume": 27816129.84838,
+      "ticker_close_ms": 1790053577876.0
+    },
+    {
+      "symbol": "SWARMSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1736252100000.0,
+      "change_pct": 6.6,
+      "quote_volume": 3395348.117254,
+      "ticker_close_ms": 1790053578541.0
+    },
+    {
+      "symbol": "SONICUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1736319600000.0,
+      "change_pct": 12.016,
+      "quote_volume": 2793505.654965,
+      "ticker_close_ms": 1790053577952.0
+    },
+    {
+      "symbol": "PROMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "NFT",
+        "Crypto"
+      ],
+      "onboard_ms": 1736944200000.0,
+      "change_pct": 0.636,
+      "quote_volume": 9091237.8909,
+      "ticker_close_ms": 1790053579402.0
+    },
+    {
+      "symbol": "SUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1737021600000.0,
+      "change_pct": 2.344,
+      "quote_volume": 13582779.5425,
+      "ticker_close_ms": 1790053578545.0
+    },
+    {
+      "symbol": "SOLVUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1737116100000.0,
+      "change_pct": -2.45,
+      "quote_volume": 6670168.049995,
+      "ticker_close_ms": 1790053578684.0
+    },
+    {
+      "symbol": "ARCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1737118800000.0,
+      "change_pct": 4.659,
+      "quote_volume": 6605156.68327,
+      "ticker_close_ms": 1790053579303.0
+    },
+    {
+      "symbol": "AVAAIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1737119700000.0,
+      "change_pct": 1.145,
+      "quote_volume": 2797763.411824,
+      "ticker_close_ms": 1790053569968.0
+    },
+    {
+      "symbol": "TRUMPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1737205200000.0,
+      "change_pct": 3.213,
+      "quote_volume": 246607760.62561,
+      "ticker_close_ms": 1790053578739.0
+    },
+    {
+      "symbol": "MELANIAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1737365400000.0,
+      "change_pct": 8.868,
+      "quote_volume": 3265833.910223,
+      "ticker_close_ms": 1790053578576.0
+    },
+    {
+      "symbol": "VTHOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1737538200000.0,
+      "change_pct": 4.81,
+      "quote_volume": 14594003.6635784,
+      "ticker_close_ms": 1790053578495.0
+    },
+    {
+      "symbol": "ANIMEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "NFT",
+        "Crypto"
+      ],
+      "onboard_ms": 1737651600000.0,
+      "change_pct": 2.704,
+      "quote_volume": 1585312.105707,
+      "ticker_close_ms": 1790053578558.0
+    },
+    {
+      "symbol": "PIPPINUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1737713700000.0,
+      "change_pct": 6.556,
+      "quote_volume": 5020963.46299,
+      "ticker_close_ms": 1790053578652.0
+    },
+    {
+      "symbol": "VVVUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1738138500000.0,
+      "change_pct": -6.072,
+      "quote_volume": 123720235.05232,
+      "ticker_close_ms": 1790053580723.0
+    },
+    {
+      "symbol": "BERAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1738854000000.0,
+      "change_pct": 3.71,
+      "quote_volume": 9915230.16555,
+      "ticker_close_ms": 1790053578673.0
+    },
+    {
+      "symbol": "TSTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1739106000000.0,
+      "change_pct": 13.919,
+      "quote_volume": 6318006.641918,
+      "ticker_close_ms": 1790053580509.0
+    },
+    {
+      "symbol": "LAYERUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1739288700000.0,
+      "change_pct": 2.972,
+      "quote_volume": 2386961.715193,
+      "ticker_close_ms": 1790053578496.0
+    },
+    {
+      "symbol": "HEIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1739437200000.0,
+      "change_pct": 2.505,
+      "quote_volume": 6639568.094532,
+      "ticker_close_ms": 1790053574017.0
+    },
+    {
+      "symbol": "GPSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1739811600000.0,
+      "change_pct": 2.53,
+      "quote_volume": 8192148.691197,
+      "ticker_close_ms": 1790053581112.0
+    },
+    {
+      "symbol": "SHELLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1739812500000.0,
+      "change_pct": 11.075,
+      "quote_volume": 2845117.33196,
+      "ticker_close_ms": 1790053578146.0
+    },
+    {
+      "symbol": "KAITOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1740056400000.0,
+      "change_pct": 6.22,
+      "quote_volume": 16901852.42985,
+      "ticker_close_ms": 1790053578517.0
+    },
+    {
+      "symbol": "KAITOUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1741168800000.0,
+      "change_pct": 6.065,
+      "quote_volume": 2240942.70316,
+      "ticker_close_ms": 1790053578518.0
+    },
+    {
+      "symbol": "TRUMPUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1741255200000.0,
+      "change_pct": 3.263,
+      "quote_volume": 10198988.79443,
+      "ticker_close_ms": 1790053578511.0
+    },
+    {
+      "symbol": "ADAUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1741256100000.0,
+      "change_pct": 6.837,
+      "quote_volume": 18075200.30576,
+      "ticker_close_ms": 1790053578538.0
+    },
+    {
+      "symbol": "REDUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1741276800000.0,
+      "change_pct": 2.778,
+      "quote_volume": 4168104.3003,
+      "ticker_close_ms": 1790053578923.0
+    },
+    {
+      "symbol": "PNUTUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1741341600000.0,
+      "change_pct": 7.15,
+      "quote_volume": 1889465.11009,
+      "ticker_close_ms": 1790053578516.0
+    },
+    {
+      "symbol": "HBARUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1741342500000.0,
+      "change_pct": 6.631,
+      "quote_volume": 4834370.64534,
+      "ticker_close_ms": 1790053578580.0
+    },
+    {
+      "symbol": "EPICUSDT",
+      "quote": "USDT",
+      "categories": [
+        "NFT",
+        "Crypto"
+      ],
+      "onboard_ms": 1741852800000.0,
+      "change_pct": 13.223,
+      "quote_volume": 23657804.76875,
+      "ticker_close_ms": 1790053579036.0
+    },
+    {
+      "symbol": "BMTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1742218200000.0,
+      "change_pct": 2.906,
+      "quote_volume": 2400093.87122,
+      "ticker_close_ms": 1790053579919.0
+    },
+    {
+      "symbol": "MUBARAKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1742219100000.0,
+      "change_pct": 62.124,
+      "quote_volume": 128483190.94137,
+      "ticker_close_ms": 1790053581097.0
+    },
+    {
+      "symbol": "FORMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1742371200000.0,
+      "change_pct": 19.723,
+      "quote_volume": 171580211.40063,
+      "ticker_close_ms": 1790053580965.0
+    },
+    {
+      "symbol": "TUTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1742461200000.0,
+      "change_pct": 7.617,
+      "quote_volume": 13067426.42951,
+      "ticker_close_ms": 1790053581098.0
+    },
+    {
+      "symbol": "BROCCOLI714USDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1742547600000.0,
+      "change_pct": 18.119,
+      "quote_volume": 6212490.56557,
+      "ticker_close_ms": 1790053580098.0
+    },
+    {
+      "symbol": "BROCCOLIF3BUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1742548500000.0,
+      "change_pct": 10.277,
+      "quote_volume": 1263194.300448,
+      "ticker_close_ms": 1790053577686.0
+    },
+    {
+      "symbol": "SIRENUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1742634000000.0,
+      "change_pct": 2.786,
+      "quote_volume": 3480656.95164,
+      "ticker_close_ms": 1790053564299.0
+    },
+    {
+      "symbol": "BANANAS31USDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1742634900000.0,
+      "change_pct": 4.574,
+      "quote_volume": 1516144.723165,
+      "ticker_close_ms": 1790053578834.0
+    },
+    {
+      "symbol": "BRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1742561100000.0,
+      "change_pct": -0.655,
+      "quote_volume": 136462949.65744,
+      "ticker_close_ms": 1790053580989.0
+    },
+    {
+      "symbol": "PLUMEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1742562000000.0,
+      "change_pct": 3.901,
+      "quote_volume": 7166620.07495,
+      "ticker_close_ms": 1790053578491.0
+    },
+    {
+      "symbol": "NILUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1742821200000.0,
+      "change_pct": 13.148,
+      "quote_volume": 73311500.617356,
+      "ticker_close_ms": 1790053581339.0
+    },
+    {
+      "symbol": "PARTIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1742907600000.0,
+      "change_pct": 1.324,
+      "quote_volume": 4128351.91937,
+      "ticker_close_ms": 1790053578527.0
+    },
+    {
+      "symbol": "JELLYJELLYUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1743004800000.0,
+      "change_pct": 2.893,
+      "quote_volume": 1671683.45615,
+      "ticker_close_ms": 1790053570813.0
+    },
+    {
+      "symbol": "MAVIAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1743008400000.0,
+      "change_pct": 2.465,
+      "quote_volume": 947841.7022,
+      "ticker_close_ms": 1790053518658.0
+    },
+    {
+      "symbol": "PAXGUSDT",
+      "quote": "USDT",
+      "categories": [
+        "RWA",
+        "Crypto"
+      ],
+      "onboard_ms": 1743071400000.0,
+      "change_pct": -0.194,
+      "quote_volume": 70453773.8727,
+      "ticker_close_ms": 1790053580870.0
+    },
+    {
+      "symbol": "WALUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Storage",
+        "Crypto"
+      ],
+      "onboard_ms": 1743089400000.0,
+      "change_pct": 4.585,
+      "quote_volume": 6797571.73003,
+      "ticker_close_ms": 1790053578507.0
+    },
+    {
+      "symbol": "GUNUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1743426000000.0,
+      "change_pct": 3.554,
+      "quote_volume": 3870025.223509,
+      "ticker_close_ms": 1790053579570.0
+    },
+    {
+      "symbol": "ATHUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1743608700000.0,
+      "change_pct": 1.913,
+      "quote_volume": 4291254.24176,
+      "ticker_close_ms": 1790053578507.0
+    },
+    {
+      "symbol": "BABYUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1743859800000.0,
+      "change_pct": 5.392,
+      "quote_volume": 3854682.53089,
+      "ticker_close_ms": 1790053581699.0
+    },
+    {
+      "symbol": "PROMPTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1744353000000.0,
+      "change_pct": 11.636,
+      "quote_volume": 1954985.5938,
+      "ticker_close_ms": 1790053581746.0
+    },
+    {
+      "symbol": "STOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1744469100000.0,
+      "change_pct": 4.082,
+      "quote_volume": 1460121.51271,
+      "ticker_close_ms": 1790053576295.0
+    },
+    {
+      "symbol": "FHEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1744470000000.0,
+      "change_pct": 0.0,
+      "quote_volume": 1463304.61268,
+      "ticker_close_ms": 1790053579236.0
+    },
+    {
+      "symbol": "KERNELUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1744632000000.0,
+      "change_pct": 33.759,
+      "quote_volume": 85317119.04154,
+      "ticker_close_ms": 1790053579538.0
+    },
+    {
+      "symbol": "WCTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1744714800000.0,
+      "change_pct": 2.37,
+      "quote_volume": 2538257.39812,
+      "ticker_close_ms": 1790053578514.0
+    },
+    {
+      "symbol": "INITUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1744785000000.0,
+      "change_pct": 9.804,
+      "quote_volume": 4026713.79967,
+      "ticker_close_ms": 1790053582454.0
+    },
+    {
+      "symbol": "BANKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1745001000000.0,
+      "change_pct": 5.052,
+      "quote_volume": 31222997.14607,
+      "ticker_close_ms": 1790053578503.0
+    },
+    {
+      "symbol": "DEEPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1745310600000.0,
+      "change_pct": 6.186,
+      "quote_volume": 6093493.6404,
+      "ticker_close_ms": 1790053581484.0
+    },
+    {
+      "symbol": "HYPERUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1745326800000.0,
+      "change_pct": 2.665,
+      "quote_volume": 2318284.34776,
+      "ticker_close_ms": 1790053581390.0
+    },
+    {
+      "symbol": "JSTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1745832600000.0,
+      "change_pct": 1.202,
+      "quote_volume": 8175229.84949,
+      "ticker_close_ms": 1790053581099.0
+    },
+    {
+      "symbol": "SIGNUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1745838000000.0,
+      "change_pct": 0.342,
+      "quote_volume": 1611895.656054,
+      "ticker_close_ms": 1790053554642.0
+    },
+    {
+      "symbol": "PUNDIXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1746007200000.0,
+      "change_pct": 4.241,
+      "quote_volume": 1648523.18593,
+      "ticker_close_ms": 1790053578520.0
+    },
+    {
+      "symbol": "CTKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1746008100000.0,
+      "change_pct": 3.023,
+      "quote_volume": 430636.4653,
+      "ticker_close_ms": 1790053565098.0
+    },
+    {
+      "symbol": "AIOTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1746016200000.0,
+      "change_pct": 1.843,
+      "quote_volume": 1091018.101,
+      "ticker_close_ms": 1790053578512.0
+    },
+    {
+      "symbol": "DOLOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1746068400000.0,
+      "change_pct": 7.876,
+      "quote_volume": 3292878.55464,
+      "ticker_close_ms": 1790053564606.0
+    },
+    {
+      "symbol": "HAEDALUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1746069300000.0,
+      "change_pct": 4.365,
+      "quote_volume": 1967658.28456,
+      "ticker_close_ms": 1790053579498.0
+    },
+    {
+      "symbol": "SXTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1746174600000.0,
+      "change_pct": 2.171,
+      "quote_volume": 2166107.783104,
+      "ticker_close_ms": 1790053579343.0
+    },
+    {
+      "symbol": "ASRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1746523800000.0,
+      "change_pct": 2.427,
+      "quote_volume": 802249.37319,
+      "ticker_close_ms": 1790053579669.0
+    },
+    {
+      "symbol": "ALPINEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1746524700000.0,
+      "change_pct": 2.893,
+      "quote_volume": 762891.86967,
+      "ticker_close_ms": 1790053572695.0
+    },
+    {
+      "symbol": "B2USDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1746538200000.0,
+      "change_pct": 1.612,
+      "quote_volume": 10031772.223,
+      "ticker_close_ms": 1790053580691.0
+    },
+    {
+      "symbol": "SYRUPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1746606600000.0,
+      "change_pct": -0.836,
+      "quote_volume": 7520784.40978,
+      "ticker_close_ms": 1790053579943.0
+    },
+    {
+      "symbol": "DOODUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1746797400000.0,
+      "change_pct": 3.108,
+      "quote_volume": 2814014.167513,
+      "ticker_close_ms": 1790053578492.0
+    },
+    {
+      "symbol": "OGUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1747040400000.0,
+      "change_pct": 2.721,
+      "quote_volume": 1125621.0877,
+      "ticker_close_ms": 1790053577155.0
+    },
+    {
+      "symbol": "SKYAIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1747129500000.0,
+      "change_pct": 1.596,
+      "quote_volume": 3062687.35104,
+      "ticker_close_ms": 1790053577613.0
+    },
+    {
+      "symbol": "NXPCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1747290600000.0,
+      "change_pct": 7.404,
+      "quote_volume": 7893255.1141,
+      "ticker_close_ms": 1790053581796.0
+    },
+    {
+      "symbol": "CVCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1747384200000.0,
+      "change_pct": 2.774,
+      "quote_volume": 5607643.64397,
+      "ticker_close_ms": 1790053578495.0
+    },
+    {
+      "symbol": "AGTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1747737000000.0,
+      "change_pct": 66.879,
+      "quote_volume": 18718674.174863,
+      "ticker_close_ms": 1790053581139.0
+    },
+    {
+      "symbol": "AWEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1747814400000.0,
+      "change_pct": 1.849,
+      "quote_volume": 1207649.03801,
+      "ticker_close_ms": 1790053576137.0
+    },
+    {
+      "symbol": "BUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1747931400000.0,
+      "change_pct": -2.615,
+      "quote_volume": 1999417.1312,
+      "ticker_close_ms": 1790053578597.0
+    },
+    {
+      "symbol": "SOONUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1747989000000.0,
+      "change_pct": 3.115,
+      "quote_volume": 2028077.3605,
+      "ticker_close_ms": 1790053578504.0
+    },
+    {
+      "symbol": "HUMAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Payment",
+        "Crypto"
+      ],
+      "onboard_ms": 1748264400000.0,
+      "change_pct": 8.403,
+      "quote_volume": 4690993.660256,
+      "ticker_close_ms": 1790053580759.0
+    },
+    {
+      "symbol": "AUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1748419200000.0,
+      "change_pct": 5.289,
+      "quote_volume": 3078862.08267,
+      "ticker_close_ms": 1790053578691.0
+    },
+    {
+      "symbol": "SOPHUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1748437200000.0,
+      "change_pct": 3.939,
+      "quote_volume": 5027754.885402,
+      "ticker_close_ms": 1790053581358.0
+    },
+    {
+      "symbol": "MERLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1748507400000.0,
+      "change_pct": 2.992,
+      "quote_volume": 1836976.05404,
+      "ticker_close_ms": 1790053578631.0
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1748601000000.0,
+      "change_pct": -0.354,
+      "quote_volume": 910603667.48968,
+      "ticker_close_ms": 1790053581798.0
+    },
+    {
+      "symbol": "1000000BOBUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1749112200000.0,
+      "change_pct": 5.043,
+      "quote_volume": 622428.20482,
+      "ticker_close_ms": 1790053579310.0
+    },
+    {
+      "symbol": "LAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1749114000000.0,
+      "change_pct": 2.881,
+      "quote_volume": 9683549.214171,
+      "ticker_close_ms": 1790053578513.0
+    },
+    {
+      "symbol": "HOMEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1749555000000.0,
+      "change_pct": -0.06,
+      "quote_volume": 11109631.195498,
+      "ticker_close_ms": 1790053580167.0
+    },
+    {
+      "symbol": "RESOLVUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1749562200000.0,
+      "change_pct": 3.206,
+      "quote_volume": 1273168.42387,
+      "ticker_close_ms": 1790053578622.0
+    },
+    {
+      "symbol": "TAIKOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1749645000000.0,
+      "change_pct": 5.744,
+      "quote_volume": 1914245.72418,
+      "ticker_close_ms": 1790053569397.0
+    },
+    {
+      "symbol": "SQDUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1749645900000.0,
+      "change_pct": 4.045,
+      "quote_volume": 1327791.19766,
+      "ticker_close_ms": 1790053578210.0
+    },
+    {
+      "symbol": "PUMPBTCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1749808800000.0,
+      "change_pct": 4.895,
+      "quote_volume": 749787.03192,
+      "ticker_close_ms": 1790053574416.0
+    },
+    {
+      "symbol": "AAVEUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1750062600000.0,
+      "change_pct": 3.32,
+      "quote_volume": 15562015.033,
+      "ticker_close_ms": 1790053579902.0
+    },
+    {
+      "symbol": "UNIUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1750063500000.0,
+      "change_pct": 1.29,
+      "quote_volume": 53309608.468,
+      "ticker_close_ms": 1790053580855.0
+    },
+    {
+      "symbol": "SPKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1750150800000.0,
+      "change_pct": 3.103,
+      "quote_volume": 5609965.03758,
+      "ticker_close_ms": 1790053578612.0
+    },
+    {
+      "symbol": "MYXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1750249800000.0,
+      "change_pct": -1.516,
+      "quote_volume": 8055742.07104,
+      "ticker_close_ms": 1790053582364.0
+    },
+    {
+      "symbol": "FUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1750250700000.0,
+      "change_pct": 2.288,
+      "quote_volume": 6042660.325203,
+      "ticker_close_ms": 1790053579820.0
+    },
+    {
+      "symbol": "NEWTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1750343400000.0,
+      "change_pct": 7.403,
+      "quote_volume": 2367644.64667,
+      "ticker_close_ms": 1790053565697.0
+    },
+    {
+      "symbol": "HUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1750843800000.0,
+      "change_pct": -4.217,
+      "quote_volume": 11048036.72493,
+      "ticker_close_ms": 1790053575839.0
+    },
+    {
+      "symbol": "SAHARAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1750939200000.0,
+      "change_pct": 2.905,
+      "quote_volume": 4944402.114657,
+      "ticker_close_ms": 1790053581838.0
+    },
+    {
+      "symbol": "ICNTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1751547600000.0,
+      "change_pct": 2.963,
+      "quote_volume": 1013323.9042,
+      "ticker_close_ms": 1790053568738.0
+    },
+    {
+      "symbol": "BULLAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1751619600000.0,
+      "change_pct": -1.491,
+      "quote_volume": 10118767.186246,
+      "ticker_close_ms": 1790053579837.0
+    },
+    {
+      "symbol": "IDOLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1751620500000.0,
+      "change_pct": 5.542,
+      "quote_volume": 1532555.26606,
+      "ticker_close_ms": 1790053577493.0
+    },
+    {
+      "symbol": "MUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1751880600000.0,
+      "change_pct": -10.6,
+      "quote_volume": 3865739.8786,
+      "ticker_close_ms": 1790053582077.0
+    },
+    {
+      "symbol": "PUMPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1752132600000.0,
+      "change_pct": -0.49,
+      "quote_volume": 164480066.535472,
+      "ticker_close_ms": 1790053580668.0
+    },
+    {
+      "symbol": "CROSSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1752143400000.0,
+      "change_pct": -0.6,
+      "quote_volume": 2647656.43719,
+      "ticker_close_ms": 1790053581948.0
+    },
+    {
+      "symbol": "AINUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1752144300000.0,
+      "change_pct": -1.338,
+      "quote_volume": 7382598.02548,
+      "ticker_close_ms": 1790053581795.0
+    },
+    {
+      "symbol": "CUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1752570000000.0,
+      "change_pct": 2.712,
+      "quote_volume": 11224833.15656,
+      "ticker_close_ms": 1790053579262.0
+    },
+    {
+      "symbol": "VELVETUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1752570900000.0,
+      "change_pct": 0.721,
+      "quote_volume": 5418159.54265,
+      "ticker_close_ms": 1790053580901.0
+    },
+    {
+      "symbol": "TACUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1752575400000.0,
+      "change_pct": 3.868,
+      "quote_volume": 2310511.085939,
+      "ticker_close_ms": 1790053579570.0
+    },
+    {
+      "symbol": "ERAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1752766200000.0,
+      "change_pct": 3.891,
+      "quote_volume": 3936281.87488,
+      "ticker_close_ms": 1790053577688.0
+    },
+    {
+      "symbol": "TAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1753083000000.0,
+      "change_pct": 2.858,
+      "quote_volume": 856133.90489,
+      "ticker_close_ms": 1790053577651.0
+    },
+    {
+      "symbol": "PENGUUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1753255800000.0,
+      "change_pct": 10.183,
+      "quote_volume": 8896522.465404,
+      "ticker_close_ms": 1790053581986.0
+    },
+    {
+      "symbol": "CVXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1753270200000.0,
+      "change_pct": 1.844,
+      "quote_volume": 2602022.6818,
+      "ticker_close_ms": 1790053578510.0
+    },
+    {
+      "symbol": "SLPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1753271100000.0,
+      "change_pct": 3.713,
+      "quote_volume": 821499.5735863,
+      "ticker_close_ms": 1790053578665.0
+    },
+    {
+      "symbol": "ZORAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1753441200000.0,
+      "change_pct": 4.31,
+      "quote_volume": 4058434.51939,
+      "ticker_close_ms": 1790053580666.0
+    },
+    {
+      "symbol": "TAGUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1753442100000.0,
+      "change_pct": -1.812,
+      "quote_volume": 2096486.5621041,
+      "ticker_close_ms": 1790053578632.0
+    },
+    {
+      "symbol": "ESPORTSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1753783200000.0,
+      "change_pct": 4.016,
+      "quote_volume": 4596340.21823,
+      "ticker_close_ms": 1790053572250.0
+    },
+    {
+      "symbol": "TREEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1753797600000.0,
+      "change_pct": 7.3,
+      "quote_volume": 4897699.52497,
+      "ticker_close_ms": 1790053580776.0
+    },
+    {
+      "symbol": "PLAYUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1753954200000.0,
+      "change_pct": 0.318,
+      "quote_volume": 10396430.883,
+      "ticker_close_ms": 1790053577797.0
+    },
+    {
+      "symbol": "NAORISUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1753965000000.0,
+      "change_pct": 1.643,
+      "quote_volume": 1203403.17599,
+      "ticker_close_ms": 1790053578841.0
+    },
+    {
+      "symbol": "TOWNSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1754404200000.0,
+      "change_pct": 4.25,
+      "quote_volume": 1261180.617026,
+      "ticker_close_ms": 1790053581808.0
+    },
+    {
+      "symbol": "PROVEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1754413200000.0,
+      "change_pct": -9.217,
+      "quote_volume": 31399340.13828,
+      "ticker_close_ms": 1790053581820.0
+    },
+    {
+      "symbol": "INUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1754562600000.0,
+      "change_pct": 11.7,
+      "quote_volume": 6356513.07511,
+      "ticker_close_ms": 1790053581213.0
+    },
+    {
+      "symbol": "CARVUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1754585100000.0,
+      "change_pct": 15.867,
+      "quote_volume": 11455767.19289,
+      "ticker_close_ms": 1790053580297.0
+    },
+    {
+      "symbol": "AIOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1755084600000.0,
+      "change_pct": 4.121,
+      "quote_volume": 2146478.41136,
+      "ticker_close_ms": 1790053568397.0
+    },
+    {
+      "symbol": "XNYUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1755085500000.0,
+      "change_pct": 2.726,
+      "quote_volume": 1044821.986088,
+      "ticker_close_ms": 1790053573004.0
+    },
+    {
+      "symbol": "USELESSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1755260100000.0,
+      "change_pct": 8.146,
+      "quote_volume": 121328716.73073,
+      "ticker_close_ms": 1790053581898.0
+    },
+    {
+      "symbol": "SAPIENUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1755711000000.0,
+      "change_pct": 3.556,
+      "quote_volume": 990887.11106,
+      "ticker_close_ms": 1790053578538.0
+    },
+    {
+      "symbol": "XPLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1755855000000.0,
+      "change_pct": 1.406,
+      "quote_volume": 101036517.53913,
+      "ticker_close_ms": 1790053581865.0
+    },
+    {
+      "symbol": "WLFIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1755937800000.0,
+      "change_pct": 0.66,
+      "quote_volume": 42243393.68992,
+      "ticker_close_ms": 1790053581885.0
+    },
+    {
+      "symbol": "BIOUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1756106100000.0,
+      "change_pct": 3.257,
+      "quote_volume": 1307798.08637,
+      "ticker_close_ms": 1790053578493.0
+    },
+    {
+      "symbol": "SOMIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1756114200000.0,
+      "change_pct": -3.315,
+      "quote_volume": 3444012.1232,
+      "ticker_close_ms": 1790053578622.0
+    },
+    {
+      "symbol": "BASUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1756215000000.0,
+      "change_pct": 0.025,
+      "quote_volume": 1189938.27946,
+      "ticker_close_ms": 1790053574738.0
+    },
+    {
+      "symbol": "BTRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1756290600000.0,
+      "change_pct": 0.238,
+      "quote_volume": 3823761.70131,
+      "ticker_close_ms": 1790053579163.0
+    },
+    {
+      "symbol": "MITOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1756398600000.0,
+      "change_pct": -0.48,
+      "quote_volume": 4974761.8979,
+      "ticker_close_ms": 1790053579081.0
+    },
+    {
+      "symbol": "HEMIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1756441800000.0,
+      "change_pct": 8.406,
+      "quote_volume": 10816711.216252,
+      "ticker_close_ms": 1790053579660.0
+    },
+    {
+      "symbol": "LINEAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1756715400000.0,
+      "change_pct": 2.163,
+      "quote_volume": 4123945.678471,
+      "ticker_close_ms": 1790053580472.0
+    },
+    {
+      "symbol": "QUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1756798200000.0,
+      "change_pct": 2.336,
+      "quote_volume": 1374423.169083,
+      "ticker_close_ms": 1790053549654.0
+    },
+    {
+      "symbol": "ARIAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1756897200000.0,
+      "change_pct": 3.342,
+      "quote_volume": 1505617.52808,
+      "ticker_close_ms": 1790053579271.0
+    },
+    {
+      "symbol": "TAKEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Gaming",
+        "Crypto"
+      ],
+      "onboard_ms": 1756898100000.0,
+      "change_pct": -0.831,
+      "quote_volume": 841892.17642,
+      "ticker_close_ms": 1790053547261.0
+    },
+    {
+      "symbol": "PTBUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1756902600000.0,
+      "change_pct": -5.958,
+      "quote_volume": 109669798.5895444,
+      "ticker_close_ms": 1790053580993.0
+    },
+    {
+      "symbol": "WLFIUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1757320200000.0,
+      "change_pct": 0.695,
+      "quote_volume": 2753739.83769,
+      "ticker_close_ms": 1790053578634.0
+    },
+    {
+      "symbol": "OPENUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1757336400000.0,
+      "change_pct": 2.916,
+      "quote_volume": 2493901.3262,
+      "ticker_close_ms": 1790053579911.0
+    },
+    {
+      "symbol": "FLOCKUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1757400300000.0,
+      "change_pct": 14.109,
+      "quote_volume": 39311897.22751,
+      "ticker_close_ms": 1790053579198.0
+    },
+    {
+      "symbol": "SKYUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1757401200000.0,
+      "change_pct": -3.28,
+      "quote_volume": 10999912.48942,
+      "ticker_close_ms": 1790053582067.0
+    },
+    {
+      "symbol": "AVNTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1757430000000.0,
+      "change_pct": 3.316,
+      "quote_volume": 7939229.38911,
+      "ticker_close_ms": 1790053578792.0
+    },
+    {
+      "symbol": "HOLOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1757592000000.0,
+      "change_pct": 5.894,
+      "quote_volume": 2550036.51914,
+      "ticker_close_ms": 1790053580101.0
+    },
+    {
+      "symbol": "XPINUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1757664000000.0,
+      "change_pct": -2.909,
+      "quote_volume": 2438402.769474,
+      "ticker_close_ms": 1790053582108.0
+    },
+    {
+      "symbol": "UBUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1757673000000.0,
+      "change_pct": 11.389,
+      "quote_volume": 16029860.77594,
+      "ticker_close_ms": 1790053579342.0
+    },
+    {
+      "symbol": "ZKCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1757944800000.0,
+      "change_pct": 4.042,
+      "quote_volume": 3556933.15313,
+      "ticker_close_ms": 1790053580589.0
+    },
+    {
+      "symbol": "TOSHIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1758087000000.0,
+      "change_pct": 9.648,
+      "quote_volume": 2063776.3293628,
+      "ticker_close_ms": 1790053578613.0
+    },
+    {
+      "symbol": "STBLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1758087900000.0,
+      "change_pct": 2.895,
+      "quote_volume": 2045275.02599,
+      "ticker_close_ms": 1790053561474.0
+    },
+    {
+      "symbol": "0GUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1758123900000.0,
+      "change_pct": 2.996,
+      "quote_volume": 8345116.822,
+      "ticker_close_ms": 1790053578681.0
+    },
+    {
+      "symbol": "BARDUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1758193200000.0,
+      "change_pct": 2.474,
+      "quote_volume": 1722219.13,
+      "ticker_close_ms": 1790053577965.0
+    },
+    {
+      "symbol": "ASTERUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1758283200000.0,
+      "change_pct": -1.372,
+      "quote_volume": 122748484.0811,
+      "ticker_close_ms": 1790053581032.0
+    },
+    {
+      "symbol": "TRADOORUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1758285000000.0,
+      "change_pct": -0.158,
+      "quote_volume": 1510388.7599,
+      "ticker_close_ms": 1790053570826.0
+    },
+    {
+      "symbol": "BLESSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1758619800000.0,
+      "change_pct": 2.424,
+      "quote_volume": 3700143.047873,
+      "ticker_close_ms": 1790053580337.0
+    },
+    {
+      "symbol": "FLUIDUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1758708900000.0,
+      "change_pct": 7.376,
+      "quote_volume": 1451318.4984,
+      "ticker_close_ms": 1790053576516.0
+    },
+    {
+      "symbol": "COAIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1758785400000.0,
+      "change_pct": 2.194,
+      "quote_volume": 1267675.7585,
+      "ticker_close_ms": 1790053578594.0
+    },
+    {
+      "symbol": "HANAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1758886200000.0,
+      "change_pct": -4.302,
+      "quote_volume": 2655152.91529,
+      "ticker_close_ms": 1790053579686.0
+    },
+    {
+      "symbol": "MIRAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1758888000000.0,
+      "change_pct": 3.504,
+      "quote_volume": 5971438.00384,
+      "ticker_close_ms": 1790053578509.0
+    },
+    {
+      "symbol": "AKEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1758889800000.0,
+      "change_pct": 57.502,
+      "quote_volume": 489390535.881166,
+      "ticker_close_ms": 1790053582098.0
+    },
+    {
+      "symbol": "ORDERUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1758890700000.0,
+      "change_pct": 4.809,
+      "quote_volume": 1908091.67619,
+      "ticker_close_ms": 1790053578320.0
+    },
+    {
+      "symbol": "LIGHTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1758972600000.0,
+      "change_pct": 6.955,
+      "quote_volume": 3085309.4871,
+      "ticker_close_ms": 1790053578769.0
+    },
+    {
+      "symbol": "XANUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1759141800000.0,
+      "change_pct": 3.068,
+      "quote_volume": 1370845.576181,
+      "ticker_close_ms": 1790053578619.0
+    },
+    {
+      "symbol": "FFUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1759152600000.0,
+      "change_pct": -1.06,
+      "quote_volume": 16064109.58807,
+      "ticker_close_ms": 1790053579554.0
+    },
+    {
+      "symbol": "EDENUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1759230000000.0,
+      "change_pct": 11.377,
+      "quote_volume": 9053187.99678,
+      "ticker_close_ms": 1790053582169.0
+    },
+    {
+      "symbol": "NOMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1759305600000.0,
+      "change_pct": 4.742,
+      "quote_volume": 3115317.320886,
+      "ticker_close_ms": 1790053579228.0
+    },
+    {
+      "symbol": "TRUTHUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1759320000000.0,
+      "change_pct": -1.228,
+      "quote_volume": 1544758.243515,
+      "ticker_close_ms": 1790053578554.0
+    },
+    {
+      "symbol": "2ZUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1759408200000.0,
+      "change_pct": 3.505,
+      "quote_volume": 2037790.26114,
+      "ticker_close_ms": 1790053578631.0
+    },
+    {
+      "symbol": "EVAAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1759487400000.0,
+      "change_pct": 8.638,
+      "quote_volume": 26400923.52051,
+      "ticker_close_ms": 1790053580941.0
+    },
+    {
+      "symbol": "LYNUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1759735800000.0,
+      "change_pct": 13.829,
+      "quote_volume": 9029585.10129,
+      "ticker_close_ms": 1790053577405.0
+    },
+    {
+      "symbol": "KGENUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1759847400000.0,
+      "change_pct": 1.561,
+      "quote_volume": 830492.12551,
+      "ticker_close_ms": 1790053576622.0
+    },
+    {
+      "symbol": "4USDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1759923000000.0,
+      "change_pct": -8.736,
+      "quote_volume": 13300584.436639,
+      "ticker_close_ms": 1790053578794.0
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Meme",
+        "Crypto"
+      ],
+      "onboard_ms": 1760003100000.0,
+      "change_pct": 5.047,
+      "quote_volume": 15366923.6243,
+      "ticker_close_ms": 1790053580223.0
+    },
+    {
+      "symbol": "MONUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1760080500000.0,
+      "change_pct": 0.644,
+      "quote_volume": 27008984.24376,
+      "ticker_close_ms": 1790053578590.0
+    },
+    {
+      "symbol": "YBUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1760107500000.0,
+      "change_pct": 2.351,
+      "quote_volume": 991652.42477,
+      "ticker_close_ms": 1790053574389.0
+    },
+    {
+      "symbol": "METUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1760185800000.0,
+      "change_pct": 7.873,
+      "quote_volume": 12232696.9519,
+      "ticker_close_ms": 1790053578491.0
+    },
+    {
+      "symbol": "EULUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1760365800000.0,
+      "change_pct": 5.084,
+      "quote_volume": 5179322.11718,
+      "ticker_close_ms": 1790053578521.0
+    },
+    {
+      "symbol": "ENSOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1760432400000.0,
+      "change_pct": 1.256,
+      "quote_volume": 5836534.81388,
+      "ticker_close_ms": 1790053581474.0
+    },
+    {
+      "symbol": "CLOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1760441400000.0,
+      "change_pct": -3.242,
+      "quote_volume": 2867954.29518,
+      "ticker_close_ms": 1790053578820.0
+    },
+    {
+      "symbol": "RECALLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1760531400000.0,
+      "change_pct": 3.945,
+      "quote_volume": 865463.75932,
+      "ticker_close_ms": 1790053578583.0
+    },
+    {
+      "symbol": "ZBTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1760700600000.0,
+      "change_pct": 6.04,
+      "quote_volume": 4061529.35976,
+      "ticker_close_ms": 1790053580934.0
+    },
+    {
+      "symbol": "LABUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1760711400000.0,
+      "change_pct": 10.379,
+      "quote_volume": 15326051.85385,
+      "ticker_close_ms": 1790053581267.0
+    },
+    {
+      "symbol": "RIVERUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1760712300000.0,
+      "change_pct": 3.221,
+      "quote_volume": 11526924.3899,
+      "ticker_close_ms": 1790053580297.0
+    },
+    {
+      "symbol": "BLUAIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1761046200000.0,
+      "change_pct": 0.81,
+      "quote_volume": 1041734.556488,
+      "ticker_close_ms": 1790053574088.0
+    },
+    {
+      "symbol": "TURTLEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1761145200000.0,
+      "change_pct": 3.126,
+      "quote_volume": 821731.87735,
+      "ticker_close_ms": 1790053563274.0
+    },
+    {
+      "symbol": "APRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1761215400000.0,
+      "change_pct": -1.915,
+      "quote_volume": 5067436.2759,
+      "ticker_close_ms": 1790053579613.0
+    },
+    {
+      "symbol": "ONUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1761294600000.0,
+      "change_pct": -6.782,
+      "quote_volume": 3565779.1412,
+      "ticker_close_ms": 1790053580584.0
+    },
+    {
+      "symbol": "KITEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1761733800000.0,
+      "change_pct": 5.382,
+      "quote_volume": 6437205.64676,
+      "ticker_close_ms": 1790053582083.0
+    },
+    {
+      "symbol": "ATUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1761737400000.0,
+      "change_pct": 7.071,
+      "quote_volume": 3560823.87579,
+      "ticker_close_ms": 1790053540222.0
+    },
+    {
+      "symbol": "CCUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-1",
+        "Crypto"
+      ],
+      "onboard_ms": 1761912000000.0,
+      "change_pct": 5.38,
+      "quote_volume": 11779491.11945,
+      "ticker_close_ms": 1790053579515.0
+    },
+    {
+      "symbol": "MMTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1762257600000.0,
+      "change_pct": 0.06,
+      "quote_volume": 3878006.5437,
+      "ticker_close_ms": 1790053574378.0
+    },
+    {
+      "symbol": "TRUSTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1762335000000.0,
+      "change_pct": 6.801,
+      "quote_volume": 1950848.32917,
+      "ticker_close_ms": 1790053576003.0
+    },
+    {
+      "symbol": "UAIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1762428600000.0,
+      "change_pct": -18.637,
+      "quote_volume": 135404481.7687,
+      "ticker_close_ms": 1790053581666.0
+    },
+    {
+      "symbol": "FOLKSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1762432200000.0,
+      "change_pct": 5.42,
+      "quote_volume": 1536146.943,
+      "ticker_close_ms": 1790053564673.0
+    },
+    {
+      "symbol": "STABLEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1762430400000.0,
+      "change_pct": -2.199,
+      "quote_volume": 2786875.910423,
+      "ticker_close_ms": 1790053552561.0
+    },
+    {
+      "symbol": "JCTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1762770600000.0,
+      "change_pct": 6.966,
+      "quote_volume": 2130567.600619,
+      "ticker_close_ms": 1790053581633.0
+    },
+    {
+      "symbol": "ALLOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1762869600000.0,
+      "change_pct": 3.897,
+      "quote_volume": 18356033.94091,
+      "ticker_close_ms": 1790053580231.0
+    },
+    {
+      "symbol": "CLANKERUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1762948800000.0,
+      "change_pct": 3.843,
+      "quote_volume": 5406005.2341,
+      "ticker_close_ms": 1790053574716.0
+    },
+    {
+      "symbol": "BEATUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1762949700000.0,
+      "change_pct": 3.484,
+      "quote_volume": 12866374.9216,
+      "ticker_close_ms": 1790053577821.0
+    },
+    {
+      "symbol": "PIEVERSEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1763119800000.0,
+      "change_pct": 8.101,
+      "quote_volume": 27133561.6144,
+      "ticker_close_ms": 1790053575131.0
+    },
+    {
+      "symbol": "SENTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1763124300000.0,
+      "change_pct": 3.758,
+      "quote_volume": 3124501.82094,
+      "ticker_close_ms": 1790053578613.0
+    },
+    {
+      "symbol": "ZECUSDC",
+      "quote": "USDC",
+      "categories": [
+        "USDC",
+        "Crypto"
+      ],
+      "onboard_ms": 1763548200000.0,
+      "change_pct": -3.579,
+      "quote_volume": 166354733.52,
+      "ticker_close_ms": 1790053582305.0
+    },
+    {
+      "symbol": "IRYSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1764172800000.0,
+      "change_pct": 4.199,
+      "quote_volume": 895088.06049,
+      "ticker_close_ms": 1790053579087.0
+    },
+    {
+      "symbol": "POWERUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1765011600000.0,
+      "change_pct": 0.865,
+      "quote_volume": 5572073.11946,
+      "ticker_close_ms": 1790053582463.0
+    },
+    {
+      "symbol": "WETUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1765350000000.0,
+      "change_pct": 9.333,
+      "quote_volume": 5758613.57269,
+      "ticker_close_ms": 1790053577688.0
+    },
+    {
+      "symbol": "NIGHTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1765364400000.0,
+      "change_pct": -0.125,
+      "quote_volume": 6478713.91182,
+      "ticker_close_ms": 1790053581702.0
+    },
+    {
+      "symbol": "USUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1765536300000.0,
+      "change_pct": 6.48,
+      "quote_volume": 3229429.732715,
+      "ticker_close_ms": 1790053579043.0
+    },
+    {
+      "symbol": "CYSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1765537200000.0,
+      "change_pct": 6.486,
+      "quote_volume": 4813623.8598,
+      "ticker_close_ms": 1790053577393.0
+    },
+    {
+      "symbol": "RAVEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1765726200000.0,
+      "change_pct": 1.36,
+      "quote_volume": 3822657.3586,
+      "ticker_close_ms": 1790053578613.0
+    },
+    {
+      "symbol": "ZKPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1766311200000.0,
+      "change_pct": 4.077,
+      "quote_volume": 2900722.94646,
+      "ticker_close_ms": 1790053578971.0
+    },
+    {
+      "symbol": "GUAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1766312100000.0,
+      "change_pct": 6.611,
+      "quote_volume": 1424116.22386,
+      "ticker_close_ms": 1790053579570.0
+    },
+    {
+      "symbol": "LITUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1766511000000.0,
+      "change_pct": -2.846,
+      "quote_volume": 77528381.15825,
+      "ticker_close_ms": 1790053582045.0
+    },
+    {
+      "symbol": "BREVUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1767091500000.0,
+      "change_pct": 9.283,
+      "quote_volume": 2297746.15981,
+      "ticker_close_ms": 1790053578311.0
+    },
+    {
+      "symbol": "COLLECTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1767186900000.0,
+      "change_pct": 5.773,
+      "quote_volume": 1950361.28549,
+      "ticker_close_ms": 1790053581925.0
+    },
+    {
+      "symbol": "MAGMAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1767187800000.0,
+      "change_pct": 6.644,
+      "quote_volume": 7323355.98276,
+      "ticker_close_ms": 1790053581700.0
+    },
+    {
+      "symbol": "ZAMAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1767949200000.0,
+      "change_pct": 4.842,
+      "quote_volume": 121585200.16042,
+      "ticker_close_ms": 1790053581116.0
+    },
+    {
+      "symbol": "FOGOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1768053600000.0,
+      "change_pct": 3.276,
+      "quote_volume": 1987936.584293,
+      "ticker_close_ms": 1790053578619.0
+    },
+    {
+      "symbol": "FRAXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1768464000000.0,
+      "change_pct": 0.907,
+      "quote_volume": 790462.1163,
+      "ticker_close_ms": 1790053574530.0
+    },
+    {
+      "symbol": "SPORTFUNUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1768571100000.0,
+      "change_pct": 2.806,
+      "quote_volume": 667378.65417,
+      "ticker_close_ms": 1790053579121.0
+    },
+    {
+      "symbol": "AIAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1768907700000.0,
+      "change_pct": 0.376,
+      "quote_volume": 1887101.64629,
+      "ticker_close_ms": 1790053579458.0
+    },
+    {
+      "symbol": "ACUUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1768999500000.0,
+      "change_pct": 0.507,
+      "quote_volume": 1689936.7368,
+      "ticker_close_ms": 1790053580329.0
+    },
+    {
+      "symbol": "ELSAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1769066700000.0,
+      "change_pct": 3.196,
+      "quote_volume": 1212458.77837,
+      "ticker_close_ms": 1790053578539.0
+    },
+    {
+      "symbol": "SKRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1769078700000.0,
+      "change_pct": 30.176,
+      "quote_volume": 15957164.590013,
+      "ticker_close_ms": 1790053582173.0
+    },
+    {
+      "symbol": "SPACEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1769168700000.0,
+      "change_pct": 11.012,
+      "quote_volume": 2257238.551039,
+      "ticker_close_ms": 1790053582101.0
+    },
+    {
+      "symbol": "FIGHTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1769170500000.0,
+      "change_pct": 0.055,
+      "quote_volume": 1277921.6648,
+      "ticker_close_ms": 1790053576859.0
+    },
+    {
+      "symbol": "BIRBUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1769663700000.0,
+      "change_pct": 3.293,
+      "quote_volume": 1879123.37659,
+      "ticker_close_ms": 1790053578562.0
+    },
+    {
+      "symbol": "GWEIUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1769664600000.0,
+      "change_pct": 4.977,
+      "quote_volume": 5117071.9424,
+      "ticker_close_ms": 1790053581346.0
+    },
+    {
+      "symbol": "MEGAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1769775300000.0,
+      "change_pct": 4.837,
+      "quote_volume": 13671052.19606,
+      "ticker_close_ms": 1790053578492.0
+    },
+    {
+      "symbol": "INXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1769799600000.0,
+      "change_pct": 2.197,
+      "quote_volume": 1546332.922429,
+      "ticker_close_ms": 1790053575355.0
+    },
+    {
+      "symbol": "TRIAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1770380100000.0,
+      "change_pct": 0.368,
+      "quote_volume": 2852211.121674,
+      "ticker_close_ms": 1790053578496.0
+    },
+    {
+      "symbol": "ESPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1770711000000.0,
+      "change_pct": -0.095,
+      "quote_volume": 4030971.44322,
+      "ticker_close_ms": 1790053579168.0
+    },
+    {
+      "symbol": "AZTECUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Layer-2",
+        "Crypto"
+      ],
+      "onboard_ms": 1770784200000.0,
+      "change_pct": -4.928,
+      "quote_volume": 4393414.43816,
+      "ticker_close_ms": 1790053576387.0
+    },
+    {
+      "symbol": "OPNUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1771686000000.0,
+      "change_pct": 8.672,
+      "quote_volume": 6252816.2353,
+      "ticker_close_ms": 1790053582025.0
+    },
+    {
+      "symbol": "ROBOUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1772181900000.0,
+      "change_pct": 3.456,
+      "quote_volume": 3232341.85692,
+      "ticker_close_ms": 1790053567375.0
+    },
+    {
+      "symbol": "KATUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Infrastructure",
+        "Crypto"
+      ],
+      "onboard_ms": 1772427600000.0,
+      "change_pct": 3.466,
+      "quote_volume": 3440926.905825,
+      "ticker_close_ms": 1790053578506.0
+    },
+    {
+      "symbol": "MANTRAUSDT",
+      "quote": "USDT",
+      "categories": [
+        "RWA",
+        "Crypto"
+      ],
+      "onboard_ms": 1772611200000.0,
+      "change_pct": 3.291,
+      "quote_volume": 3253932.277429,
+      "ticker_close_ms": 1790053578631.0
+    },
+    {
+      "symbol": "CFGUSDT",
+      "quote": "USDT",
+      "categories": [
+        "RWA",
+        "Crypto"
+      ],
+      "onboard_ms": 1773666000000.0,
+      "change_pct": -3.775,
+      "quote_volume": 7512998.1424,
+      "ticker_close_ms": 1790053573449.0
+    },
+    {
+      "symbol": "EDGEUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1773928800000.0,
+      "change_pct": 9.36,
+      "quote_volume": 10535007.1385,
+      "ticker_close_ms": 1790053581136.0
+    },
+    {
+      "symbol": "BSBUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1774439100000.0,
+      "change_pct": 4.541,
+      "quote_volume": 3432082.41949,
+      "ticker_close_ms": 1790053581035.0
+    },
+    {
+      "symbol": "XAUTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "RWA",
+        "Crypto"
+      ],
+      "onboard_ms": 1774533600000.0,
+      "change_pct": -0.254,
+      "quote_volume": 45190875.45,
+      "ticker_close_ms": 1790053577823.0
+    },
+    {
+      "symbol": "BASEDUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1774864800000.0,
+      "change_pct": 2.514,
+      "quote_volume": 3161734.17885,
+      "ticker_close_ms": 1790053580982.0
+    },
+    {
+      "symbol": "PRLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1775039400000.0,
+      "change_pct": 2.778,
+      "quote_volume": 2403633.736,
+      "ticker_close_ms": 1790053540618.0
+    },
+    {
+      "symbol": "GENIUSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1776310200000.0,
+      "change_pct": -8.698,
+      "quote_volume": 17178190.7942,
+      "ticker_close_ms": 1790053581411.0
+    },
+    {
+      "symbol": "CHIPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "DeFi",
+        "Crypto"
+      ],
+      "onboard_ms": 1776323700000.0,
+      "change_pct": 9.336,
+      "quote_volume": 27034731.45233,
+      "ticker_close_ms": 1790053582191.0
+    },
+    {
+      "symbol": "OPGUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1776871800000.0,
+      "change_pct": 11.63,
+      "quote_volume": 35922372.684,
+      "ticker_close_ms": 1790053577620.0
+    },
+    {
+      "symbol": "AIGENSYNUSDT",
+      "quote": "USDT",
+      "categories": [
+        "AI",
+        "Crypto"
+      ],
+      "onboard_ms": 1777472100000.0,
+      "change_pct": 3.984,
+      "quote_volume": 2342157.55292,
+      "ticker_close_ms": 1790053571646.0
+    },
+    {
+      "symbol": "BILLUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1778141700000.0,
+      "change_pct": -0.724,
+      "quote_volume": 4000659.85971,
+      "ticker_close_ms": 1790053580324.0
+    },
+    {
+      "symbol": "PHAROSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1778735700000.0,
+      "change_pct": 10.663,
+      "quote_volume": 5279539.3782,
+      "ticker_close_ms": 1790053579121.0
+    },
+    {
+      "symbol": "STARUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1778736600000.0,
+      "change_pct": 14.931,
+      "quote_volume": 8384490.08482,
+      "ticker_close_ms": 1790053581630.0
+    },
+    {
+      "symbol": "CTRUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1779960600000.0,
+      "change_pct": 4.409,
+      "quote_volume": 817574.92366,
+      "ticker_close_ms": 1790053528304.0
+    },
+    {
+      "symbol": "SLXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1780299000000.0,
+      "change_pct": 4.661,
+      "quote_volume": 3432338.57362,
+      "ticker_close_ms": 1790053581771.0
+    },
+    {
+      "symbol": "ZESTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1780581600000.0,
+      "change_pct": 3.197,
+      "quote_volume": 1278510.36215,
+      "ticker_close_ms": 1790053528134.0
+    },
+    {
+      "symbol": "BTWUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1780582500000.0,
+      "change_pct": 8.081,
+      "quote_volume": 181086025.35657,
+      "ticker_close_ms": 1790053580616.0
+    },
+    {
+      "symbol": "REUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Alpha",
+        "Crypto"
+      ],
+      "onboard_ms": 1781791200000.0,
+      "change_pct": 3.12,
+      "quote_volume": 8965518.7066,
+      "ticker_close_ms": 1790053578574.0
+    },
+    {
+      "symbol": "ARXUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1782189900000.0,
+      "change_pct": 8.824,
+      "quote_volume": 11650909.3718,
+      "ticker_close_ms": 1790053578097.0
+    },
+    {
+      "symbol": "OUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1782301500000.0,
+      "change_pct": 1.974,
+      "quote_volume": 1969464.9772,
+      "ticker_close_ms": 1790053569704.0
+    },
+    {
+      "symbol": "CAPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1782560700000.0,
+      "change_pct": 2.483,
+      "quote_volume": 8161652.54693,
+      "ticker_close_ms": 1790053579381.0
+    },
+    {
+      "symbol": "GRAMUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1782979200000.0,
+      "change_pct": 2.568,
+      "quote_volume": 27475456.4125,
+      "ticker_close_ms": 1790053581924.0
+    },
+    {
+      "symbol": "DATAIPUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1783061100000.0,
+      "change_pct": 9.766,
+      "quote_volume": 9201290.4091,
+      "ticker_close_ms": 1790053577266.0
+    },
+    {
+      "symbol": "DATAIPUSDC",
+      "quote": "USDC",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1783061400000.0,
+      "change_pct": 9.875,
+      "quote_volume": 842804.7378,
+      "ticker_close_ms": 1790053574660.0
+    },
+    {
+      "symbol": "GRVTUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1785501900000.0,
+      "change_pct": -0.159,
+      "quote_volume": 2876245.9371,
+      "ticker_close_ms": 1790053578509.0
+    },
+    {
+      "symbol": "DOSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1786460400000.0,
+      "change_pct": 2.167,
+      "quote_volume": 2562470.4731,
+      "ticker_close_ms": 1790053576480.0
+    },
+    {
+      "symbol": "MARSCOINUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1788255900000.0,
+      "change_pct": -4.069,
+      "quote_volume": 58470122.97611,
+      "ticker_close_ms": 1790053582298.0
+    },
+    {
+      "symbol": "PONSUSDT",
+      "quote": "USDT",
+      "categories": [
+        "Crypto"
+      ],
+      "onboard_ms": 1788677100000.0,
+      "change_pct": 1.211,
+      "quote_volume": 94790172.4832,
+      "ticker_close_ms": 1790053581587.0
+    }
+  ]
+}

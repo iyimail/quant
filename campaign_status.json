@@ -1,0 +1,10 @@
+{
+  "campaign_id": "REMAINING-CAUSAL-CAMPAIGN-01",
+  "state": "COMPLETE",
+  "current_job": null,
+  "completed_jobs": 9,
+  "total_jobs": 9,
+  "summary": "C:\\Users\\Serkan\\.codex\\.chatgpt-projects\\g-p-6a8c59b1330c81918aabf551d64fa78d\\local_quant_lab\\reports\\campaigns\\REMAINING-CAUSAL-CAMPAIGN-01\\stage_summary.csv",
+  "registry": "C:\\Users\\Serkan\\.codex\\.chatgpt-projects\\g-p-6a8c59b1330c81918aabf551d64fa78d\\local_quant_lab\\reports\\campaigns\\REMAINING-CAUSAL-CAMPAIGN-01\\candidate_registry.json",
+  "updated_at_utc": "2026-09-22T17:52:45.337928+00:00"
+}
